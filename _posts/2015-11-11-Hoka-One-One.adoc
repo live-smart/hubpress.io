@@ -137,7 +137,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 2. 一款鞋子可能有很多种颜色/尺寸组合，需点入查看，图片只供参考
 3. 关于美国鞋码的选择，请参考海淘鞋子尺码
 
-全地形越野跑鞋，面向所有地形和不同路况，最大化的缓冲和保护，优异的通过性，在长距离耐力赛中，无与伦比的舒适性，明显提升了跑者的耐力和成绩。ATR系越野跑鞋，一直受入门级越野跑者和超级越野赛大神的追捧。
+*全地形越野跑鞋*，面向所有地形和不同路况，最大化的缓冲和保护，优异的通过性，在长距离耐力赛中，无与伦比的舒适性，明显提升了跑者的耐力和成绩。ATR系越野跑鞋，一直受入门级越野跑者和超级越野赛大神的追捧。
 ++++
 <style>
   .item {
@@ -224,19 +224,127 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 </div>
 ++++
  
-轻量化越野跑鞋，面向追求速度和竞技级大神的产物，最大化的缓冲，比路跑鞋还轻的重量，绝对是大神级的下坡神器。穿着Hoka One One的大神一次又一次登上各大赛事的领奖台绝非偶然。
-
+ 
+ 
+*轻量化越野跑鞋*，面向追求速度和竞技级大神的产物，最大化的缓冲，比路跑鞋还轻的重量，绝对是大神级的下坡神器。穿着Hoka One One的大神一次又一次登上各大赛事的领奖台绝非偶然。
+++++
+<div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00R8NJPO4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R8NJPO4&linkCode=as2&tag=livesmart08-20&linkId=3Y35K2EUHSJLRJ3C">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NJPO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00R8NJPO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Men's Challenger Atr
+  </div>
+</div><div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00LGXU0PA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LGXU0PA&linkCode=as2&tag=livesmart08-20&linkId=5YY37HRKKLUDOGVR">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LGXU0PA&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00LGXU0PA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Women's Challenger Atr
+  </div>
+</div><div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00ZUYH8X8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZUYH8X8&linkCode=as2&tag=livesmart08-20&linkId=3C4DDV2IGWJET7W6">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZUYH8X8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00ZUYH8X8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Men's Challenger Atr 2
+  </div>
+</div><div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00ZUYFA4M/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZUYFA4M&linkCode=as2&tag=livesmart08-20&linkId=BPTDEGQVN7CK4RC7">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZUYFA4M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00ZUYFA4M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Women's Challenger Atr 2
+  </div>
+</div><div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B01072YXPI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01072YXPI&linkCode=as2&tag=livesmart08-20&linkId=45S6U7KWJXITVNMF">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01072YXPI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B01072YXPI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Men's Speedgoat
+  </div>
+</div><div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B0106ZK4B8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0106ZK4B8&linkCode=as2&tag=livesmart08-20&linkId=CEZWYERTUTRICEUL">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0106ZK4B8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B0106ZK4B8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Women's Speedgoat
+  </div>
+</div>
+++++
  
  
  
  
-越野跑/路跑两用跑鞋，面向城市越野跑，既满足日常慢跑训练需要，又能上山奔跑。与全地形越野跑鞋的区别在于，两用跑鞋的鞋底不仅更适合在硬化路面飞奔，而且在硬化路面上的耐磨表现更优秀。不过在复杂越野技术路段上的表现会逊色于全地形越野跑鞋。
-
+*越野跑/路跑两用跑鞋*，面向城市越野跑，既满足日常慢跑训练需要，又能上山奔跑。与全地形越野跑鞋的区别在于，两用跑鞋的鞋底不仅更适合在硬化路面飞奔，而且在硬化路面上的耐磨表现更优秀。不过在复杂越野技术路段上的表现会逊色于全地形越野跑鞋。
+++++
+<div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00HAUM0RE/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HAUM0RE&linkCode=as2&tag=livesmart08-20&linkId=KUGPFTV4X3QZFA7V">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HAUM0RE&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00HAUM0RE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Men's Mafate Speed
+  </div>
+</div><div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00HAUMZEM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HAUMZEM&linkCode=as2&tag=livesmart08-20&linkId=JYU5FWMR34RGJAUR">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HAUMZEM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00HAUMZEM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Women's Mafate Speed
+  </div>
+</div>
+++++
  
  
  
-长距离公路跑鞋，面向长距离的马拉松和路跑，最大化的缓冲，轻量化设计，无论是入门级跑者，还是争分夺秒的马拉松达人，都不会拒绝既轻量化，又不失缓冲和回弹力强的跑步神器。
-
+*长距离公路跑鞋*，面向长距离的马拉松和路跑，最大化的缓冲，轻量化设计，无论是入门级跑者，还是争分夺秒的马拉松达人，都不会拒绝既轻量化，又不失缓冲和回弹力强的跑步神器。
+++++
+<div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00HAVOYCW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HAVOYCW&linkCode=as2&tag=livesmart08-20&linkId=ZLSNDSXPYGU4KF4X">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HAVOYCW&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00HAVOYCW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Men's Huaka
+  </div>
+</div><div class="item">
+  <div class="item-image">
+    <a target="_blank" href="http://www.amazon.com/gp/product/B00HAVQ0SI/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HAVQ0SI&linkCode=as2&tag=livesmart08-20&linkId=BX2S7IBZGOJLOSGT">
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HAVQ0SI&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+    </a>
+    <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00HAVQ0SI" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+  </div>
+  <div class="item-title">
+    Women's Huaka
+  </div>
+</div>
+++++
  
  
  
