@@ -164,7 +164,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 </style><div class="item">
   <div class="item-image">
     <a target="_blank" href="http://www.amazon.com/gp/product/B00LLKJ9RS/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LLKJ9RS&linkCode=as2&tag=livesmart08-20&linkId=3X2L57Z2YTONK5IX">
-      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LLKJ9RS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LLKJ9RS&Format=_SL500_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
     </a>
     <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00LLKJ9RS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
@@ -174,7 +174,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 </div><div class="item">
   <div class="item-image">
     <a target="_blank" href="http://www.amazon.com/gp/product/B00HAUU5U8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HAUU5U8&linkCode=as2&tag=livesmart08-20&linkId=N4AEKFAEQDIPPD2G">
-      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HAUU5U8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00HAUU5U8&Format=_SL500_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
     </a>
     <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00HAUU5U8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
@@ -184,7 +184,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 </div><div class="item">
   <div class="item-image">
     <a target="_blank" href="http://www.amazon.com/gp/product/B00R8NKEO4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R8NKEO4&linkCode=as2&tag=livesmart08-20&linkId=AISPQHQ45XX2U3WK">
-      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NKEO4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NKEO4&Format=_SL500_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
     </a>
     <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00R8NKEO4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
@@ -194,7 +194,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 </div><div class="item">
   <div class="item-image">
     <a target="_blank" href="http://www.amazon.com/gp/product/B00R8NLSA8/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R8NLSA8&linkCode=as2&tag=livesmart08-20&linkId=A6BQEJALEWU7RRZF">
-      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NLSA8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NLSA8&Format=_SL500_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
     </a>
     <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00R8NLSA8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
@@ -204,7 +204,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 </div><div class="item">
   <div class="item-image">
     <a target="_blank" href="http://www.amazon.com/gp/product/B00R8NO3XM/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R8NO3XM&linkCode=as2&tag=livesmart08-20&linkId=SXCNKQXEGHFKHHJP">
-      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NO3XM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NO3XM&Format=_SL500_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
     </a>
     <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00R8NO3XM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
@@ -214,7 +214,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 </div><div class="item">
   <div class="item-image">
     <a target="_blank" href="http://www.amazon.com/gp/product/B00R8NSJJ6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00R8NSJJ6&linkCode=as2&tag=livesmart08-20&linkId=2E5ZZYIXIUOZDJML">
-      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NSJJ6&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
+      <img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R8NSJJ6&Format=_SL500_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20" />
     </a>
     <img src="http://ir-na.amazon-adsystem.com/e/ir?t=livesmart08-20&l=as2&o=1&a=B00R8NSJJ6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
   </div>
