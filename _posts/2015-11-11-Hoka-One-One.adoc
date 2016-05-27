@@ -152,6 +152,11 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
   }
   .item-image img {
     width: 100%;
+    margin: 0;
+  }
+  .item-image > img {
+    width: 1px;
+    height: 1px;
   }
   .item-title {
     color: #bbbbbb;
