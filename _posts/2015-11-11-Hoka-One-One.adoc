@@ -144,7 +144,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
     border: 1px solid #888888;
     padding: 8px;
     box-shadow: 8px 8px 5px #888888;
-    margin-top: 16px;
+    margin: 16px 0;
     font-family: Arial, Verdana, Sans-serif;
   }
   .item-image, .item-title {
