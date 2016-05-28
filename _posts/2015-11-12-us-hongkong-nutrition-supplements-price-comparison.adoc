@@ -3,7 +3,6 @@
 :hp-alt-title: us-hongkong-nutrition-supplements-price-comparison
 :hp-tags: Amazon, shopping, online, nutrition, supplement, glucosamine, coenzyme q10, webber naturals
 :hp-image: https://cloud.githubusercontent.com/assets/19504323/15627277/865115fe-2511-11e6-807f-01057d0c9455.png
-:hp-author: Smart Buddy
 
 
 众所周知，工资高低不是决定购买力的唯一因素，物价这个分母也很重要。
