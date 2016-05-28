@@ -1,7 +1,7 @@
 = 海淘鞋子尺码
 :published_at: 2015-11-12
 :hp-alt-title: us-china-shoe-size-mapping
-:hp-tags: Hoka, Hoka One One, Maximalist, Run, Sports, Shoe, Runner, Protection, Overseas, Amazon, Shopping
+:hp-tags: shoe, size, Hoka, Hoka One One, overseas, Amazon, shopping, online
 :hp-image: https://cloud.githubusercontent.com/assets/19504323/15452703/48a24640-202c-11e6-934c-abd9b10e1160.jpg
 :hp-author: Smart Buddy
 
