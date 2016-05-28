@@ -2,7 +2,7 @@
 :published_at: 2015-11-12
 :hp-alt-title: us-china-shoe-size-mapping
 :hp-tags: shoe, size, Hoka, Hoka One One, overseas, Amazon, shopping, online
-:hp-image: https://cloud.githubusercontent.com/assets/19504323/15452703/48a24640-202c-11e6-934c-abd9b10e1160.jpg
+:hp-image: https://cloud.githubusercontent.com/assets/19504323/15627213/89ec24f8-250f-11e6-8e85-fb67fb269442.png
 :hp-author: Smart Buddy
 
 
