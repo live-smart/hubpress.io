@@ -136,7 +136,7 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
 .注：
 . 点图片可看美国价格，如需代购请联系微信kk794388，价格从优
 . 一款鞋子可能有很多种颜色/尺寸组合，需点入查看，图片只供参考
-. 关于美国鞋码的选择，请参考link:/2015/11/12/us-china-shoe-size-mapping.html海淘鞋子尺码
+. 关于美国鞋码的选择，请参考link:/2015/11/12/us-china-shoe-size-mapping.html[海淘鞋子尺码^]
 
 *全地形越野跑鞋*，面向所有地形和不同路况，最大化的缓冲和保护，优异的通过性，在长距离耐力赛中，无与伦比的舒适性，明显提升了跑者的耐力和成绩。ATR系越野跑鞋，一直受入门级越野跑者和超级越野赛大神的追捧。
 ++++
@@ -350,8 +350,8 @@ image:https://cloud.githubusercontent.com/assets/19504323/15452737/49cefb76-202c
  
 参考：
 
-* Wikipedia
-* Sole Man: The Story Behind Hoka Shoes
+* link:https://en.wikipedia.org/wiki/Hoka_One_One[Wikipedia^]
+* link:http://running.competitor.com/2013/04/shoes-and-gear/sole-man-hoka-is-in-for-the-long-haul_68788[Sole Man: The Story Behind Hoka Shoes^]
 
 
 
