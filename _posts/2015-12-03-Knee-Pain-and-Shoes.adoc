@@ -1,4 +1,4 @@
-= 鞋子 与 膝盖
+= 鞋子，膝盖疼痛的主因
 :published_at: 2015-12-03
 :hp-alt-title: Knee Pain and Shoes
 :hp-tags: knee, knee pain, knee protection, shoe 
@@ -25,3 +25,9 @@
 . 底部特别是脚跟部位的缓冲
 
 有没有一款鞋子满足所有这些要求？请看link:/2015/11/11/Hoka-One-One.html[Hoka One One^]。
+
+
+参考：
+
+* link:http://www.livestrong.com/article/223641-can-shoes-cause-knee-pain/[Can Shoes Cause Knee Pain?]
+* link:http://www.epainassist.com/joint-pain/knee-pain/can-shoes-cause-knee-pain[Wrong Shoes: One of the Major Causes of Knee Pain]
