@@ -16,18 +16,30 @@ There are 3 major factors that contribute to the comfort level of shoes.
 
 ==== Arch Support
 
-image:https://cloud.githubusercontent.com/assets/19504323/15632485/b4cd98a8-25c5-11e6-8c46-2b222e525c75.jpg[]
+//[quote, Lauren Hutchens, The Importance of Arch Support]
+The arch is perhaps the most important structural feature of our feet, which bear 200,000 to 300,000 lbs. of weight each mile we walk. Arches absorb the brunt of the pressure our bodies thrust upon our feet with each stride. Properly supporting the arch can prevent a variety of musculoskeletal problems that can lead to inactivity and even disability.
 
-[quote, Lauren Hutchens, The Importance of Arch Support]
-The arch is perhaps the most important structural feature of our feet, which bear 200,000 to 300,000 lbs. of stress each mile we walk. Arches absorb the brunt of the pressure our bodies thrust upon our feet with each stride. Properly supporting the arch can prevent a variety of musculoskeletal problems that can lead to inactivity and even disability.
+image:https://cloud.githubusercontent.com/assets/19504323/15632485/b4cd98a8-25c5-11e6-8c46-2b222e525c75.jpg[]
 
 {zwsp} +
 
 ==== Ankle Support
 
+It really depends on what kind of ankle you have. If yours is iffy, it would generally be safer to pick a pair of shoes that provides great ankle support.
 
+Here's a lacing technique that would help as well:
 ++++
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Cq-Ar0zzFTI?rel=0" frameborder="0" allowfullscreen></iframe>
 ++++
 
+{zwsp} +
 
+==== Heel Cushioning
+
+The risk of knee injury is increased by physical changes as joint cartilage that absorbs shock, becomes thinner with aging, weight gain and muscle loss. Great running shoes are designed to cushion your feet, which in turn takes stress off your knees.
+
+image:https://cloud.githubusercontent.com/assets/19504323/15452729/4993684a-202c-11e6-9efb-232c71ebd5c8.jpg[]
+
+==== Recommendations
+
+When it comes to running safe and in comfort, maximalist shoes are definitely the number one choice to go for. 
