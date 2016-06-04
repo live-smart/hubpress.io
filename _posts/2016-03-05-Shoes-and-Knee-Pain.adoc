@@ -53,6 +53,7 @@ So which model would you fit into? Here I picked a list of Hokas that are best f
 image:://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00ZUYP0CY&Format=_SL500_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=livesmart08-20[Vanquish 2, width=500, link="http://www.amazon.com/Hoka-One-Vanquish-Black-Running/dp/B00ZUYP0CY/ref=as_li_ss_il?ie=UTF8&qid=1465035208&sr=8-1&keywords=hoka+one+one+vanquish+2&linkCode=li3&tag=livesmart08-20&linkId=d86e1cb6a9016778d0dfe0801177dd66", window="_blank"]
 ////
 
+*Vanquish 2*
 ++++
 <div class="imageblock">
 	<div class="content">
