@@ -1,0 +1,30 @@
+= Hong Kong 
+:published_at: 2016-06-11
+:hp-tags: hong kong, competitiveness, tax, rent, life, economy
+:hp-image: https://cloud.githubusercontent.com/assets/19504323/15804449/258f6844-2b3b-11e6-8c2f-312e27adb350.jpg
+
+
+Hong Kong scored 5.46 points out of 7 on the 2015-2016 Global Competitiveness Report published by the World Economic Forum and claimed crown as world’s most competitive economy according to the IMD World Competitiveness Centre.
+
+Now you must be totally convinced and thinking about giving it a try if not yet, to settling down in Hong Kong. I'm not here to scare anybody but be sure to consult someone like you and me who are just small potatoes seeking to make a living working for someone else, and believes that the world is a beautiful place.
+
+Hong Kong is all beautiful in the eyes of beholders standing outside of it. Friendly people, smooth traffic, convenient life. It's no surprise you're getting this impression while you're traveling here. After all, you're spending the bucks and why would anyone not smile to someone who hands him money? But seriously if you're thinking about settling down in Hong Kong and assuming you're not so super wealthy that you'd still have to get a job, here are some pitfalls you might need to beware of.
+
+==== Taxation
+
+Ever heard about words to describe taxation in Hong Kong such as "simple tax structure", "low tax rate"， etc.? This is true if you just think about income tax (You can compute your own link:http://www.ird.gov.hk/eng/ese/st_comp_2016_17/stcfrm.htm[here]). But as soon as you add up the rental, it's a complete different story.
+
+As long as you're living in Hong Kong and assuming you don't own any real estate here, you need to rent a place for, mostly, sleeping (for the sake of long working hours here). Rental is like a fixed tax you pay every month to the landloard. Ever used paypal to receive money? You'll be charged a transaction fee made up of a percentage of what you receive and a fixed amount. It's the same thing here. You pay a percentage of your income to the government each year as income tax and a fixed amount to the landlord every month.
+
+How much would that fixed expense amount to? Well if you're not super demanding in terms of space and don't mind sharing kitchen and toilet with others, you might get by with a single bedroom in a flat of 500~600 square feet shared by 2~3 people, which costs you around 50K~60K per month as of 2016. That is an average of 167~200 square feet per person. A bedroom in this case would typically average around 80~100 square feet in size, merely enough for a single bed and a desk. You surely wouldn't be able to own a lot of clothings. A typical standalone flat on the Hong Kong Island side however, costs anywhere between HK$12,000~20,000 depending on size, floor, facing, and various other factors. That's *HK$144,000~240,000* per year! The link:http://www.tradingeconomics.com/hong-kong/wages[average monthly salary] in Hong Kong is around 15,000 as of 2016. As an expatriate, you're definitely no average Hong Konger. Let's say you rent an apartment of HK$15,000 per month and earn a whopping average of HK$45,000 per month, which is three times average. Using the link:http://www.ird.gov.hk/eng/ese/st_comp_2016_17/stcfrm.htm[tax computer], we know you have to pay HK$57,360. What remains for you after just deducing that tax and rental?
+
+45000*12 - 15000*12 - 57360 = 302640
+
+The tax rate in this case is 237360/540000 ~= 44%! The less you make, the higher the tax rate due to the fixed rental expense.
+
+==== MPF - Offsetting of Severance Payments and Long Service Payments
+
+
+
+==== Investment
+
