@@ -20,7 +20,7 @@ How much would that fixed expense amount to? Well if you're not super demanding 
 
 45000*12 - 15000*12 - 57360 = 302640
 
-The tax rate in this case is 237360/540000 ~= 44%! The less you make, the higher the tax rate due to the fixed rental expense.
+The *tax rate* in this case is 237360/540000 ~= *44%*! The less you make, the higher the tax rate due to the fixed rental expense.
 
 ==== MPF - Offsetting of Severance Payments and Long Service Payments
 
