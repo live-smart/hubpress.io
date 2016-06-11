@@ -1,6 +1,6 @@
 = Hong Kong 
 :published_at: 2016-06-11
-:hp-tags: hong kong, competitiveness, tax, rent, life, economy
+:hp-tags: hong kong, competitiveness, tax, rent, mpf, life, economy
 :hp-image: https://cloud.githubusercontent.com/assets/19504323/15804449/258f6844-2b3b-11e6-8c2f-312e27adb350.jpg
 
 
