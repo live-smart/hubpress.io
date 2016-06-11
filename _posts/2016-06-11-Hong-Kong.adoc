@@ -24,7 +24,24 @@ The tax rate in this case is 237360/540000 ~= 44%! The less you make, the higher
 
 ==== MPF - Offsetting of Severance Payments and Long Service Payments
 
+As long as you work in Hong Kong, you need to participate in MPF scheme. It's a kind of retirement plan where you store a portion of your income each month to an account, which is only withdrawable when you retire or leave Hong Kong, whichever comes first. Along with your contribution to this account, the employer needs to contribute the same amount which also will belong to you. Sounds good?
 
+What a lot of employees like you and me don't know is the fact that employers are entitled to offsetting any severance and long service payments using MPF. That is, when you're unfortunately laid off for example due to a bad time such as the financial tsunami in 2008 and your company is obliged to pay you a severance fee or long-term service fee, the company is basically able to first pay you in cash and then withdraw the employer's contribution portion from your MPF account!
+
+Let's look at some facts here:
+
+- As mentioned earlier, the *employer's contribution* to your MPF account is a part of your asset and belongs to you. When you're hired, that is already taken into account as company's cost.
+- The *severance payment* is a kind of compensation to you for the employer having to terminate the employment earlier than the contract terms.
+- The *long service payment* is a kind of compensation in addition to severance payment that rewards employees who have contributed a long time in their career to the company.
+
+As we can see, all above three items should belong to the employee both legally and morally. The fact that employer is able to take away any of them is morally evil to say the least. There has been constant wars between employers and employees around this and also discussions around abolishment of such laws. But I'm not really optimistic about it because the government of Hong Kong is basically there to service the wealthy and depends on them for food. Any solution that comes up therefore would be either public-fooling or mediocre at best.
+
+More info:
+
+- link:http://www.mpfa.org.hk/eng/main/employee/offsetting_of_long_service_payment_and_severance.jsp[Offsetting of Severance Payments and Long Service Payments]
+- link:http://www.scmp.com/business/banking-finance/article/1450240/employers-fight-move-abolish-mpf-offset-provision[Employers fight move to abolish MPF offset provision]
+- link:http://www.chinadailyasia.com/hknews/2015-12/11/content_15357256.html[Businesses oppose canceling MPF offset]
+- link:https://webb-site.com/articles/mpflsp.asp[Solving the MPF-LSP offset problem]
 
 ==== Investment
 
