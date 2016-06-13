@@ -45,4 +45,26 @@ More info:
 
 ==== Investment
 
-When you're reasonably better off if you survived the initial hard times and 
+So you're reasonably better off now after years of striving and struggling, and start to think about life after retirement? How does stock investment sound? 
+
+===== Stock
+
+Let's look at world's markets' evaluations first:
+
+image:https://cloud.githubusercontent.com/assets/19504323/15989695/46992e0a-30b1-11e6-9df9-33ee2f6535c8.jpg[]
+
+Usually P/E ratio reflects how the market evaluates a stock. Higher P/E of a company basically implies more trust the investors put in the management team and more confidence they have towards future profitability.
+
+Hong Kong always brags about its capabilities as a financial center and its healthy and strong legal systems. At a glance at the above data however, Hong Kong is among the bottom several in terms of average P/E of the whole market. Why? Why aren't the investors confident about this competitive financial center? What are their concerns? What are they afraid of when buying stocks in Hong Kong?
+
+There is an unfortunately ugly truth about this market that's not so widely known to the outsiders. Normally a company is there to make money for all investors, but a majority of the companies in Hong Kong are there to make money from (or rather, cheat money out of) small investors.
+
+When a company needs cash, there are several things it can do to finance itself. It can issue debts, sell assets, issue new stocks, etc. But when it comes to issuing new stocks, there are huge loopholes in Hong Kong's market laws that would basically allow major shareholders of a company to cheat the xxxx out of smaller investors like you and me. And thus even when the company is not in need of cash, it'll issue new stocks just for the sake of robbing the small investors. Here's how it works:
+
+Imagine Bob is the major shareholder of a company called Doodle whose stocks are trading at 1 dollar/share, and Alice is one of the small investors in this company. After another year of luxurious personal life, Bob is kind of stringent in pocket money again. So he goes to the market to issue new stocks at 0.1 dollar/share, which is 90% discount! This will surely bring down the current price of the stock. But wait, wouldn't that hurt all investors including Bob himself? Sure, but he doesn't care as the cash that the company gets through new stock issuance will somehow flow to his own bank account for example, through trading with his private company called Evil... Doodle will of course declare some proper usages of the cash collected, but there is no law to enforce it to do so. It might as well just tell lies on the public statement and use cash for something else. Once the cash gets into Evil, it vanishes into thin air.
+
+This is an obvious loophole in the system and many have raised suggestions to fix it including link:https://en.wikipedia.org/wiki/David_Webb_(Hong_Kong_activist)[David Webb]. The solutions are really simple to implement, such as limiting the amount of cash a company can collect via stock issuance, limiting the discount level, etc., but why aren't they implemented? I have no idea. But there surely is something dark going on between link:http://www.sfc.hk/web/EN/index.html[HKSFC] and the beneficiaries of the cheating stocks.
+
+===== Real Estate
+
+How about real estate? 
