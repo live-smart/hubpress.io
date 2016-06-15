@@ -68,3 +68,15 @@ This is an obvious loophole in the system and many have raised suggestions to fi
 ===== Real Estate
 
 How about real estate? 
+
+This has been one of the fiercest internal conflicts of Hong Kong between rich and poor. Those who own any properties would of course want property price to go infinitely up causing those who don't own anything to have to pay arms and legs just for a little place to stay. The government of Hong Kong unfortunately stands closer to rich than poor. It's not hard to hear in news about government saying it's doing its best to increase supply as an attempt to bring down property price, which is contrary to what has been done. That is, *the government has been lying*. Let me explain.
+
+Between 2010 and 2012, the Hong Kong government pushed through 2 additional stamp duties on trading of properties, adding significantly to the cost. One of these is called Special Stamp Duty (SSD) which basically says that sellers of the properties will have to pay extra tax if they bought them less than 3 years ago. Anyone with basic economics knowledge would know that this pushes the supply curve to the left (or up) bringing price up and demand down.
+
+image:https://cloud.githubusercontent.com/assets/19504323/16073155/308b44be-3317-11e6-9965-eba3fc8a7b99.jpg[]
+
+This has always been claimed to be an attempt to curb demand. True, but only at the cost of raising the price. It doesn't solve the problem of demand. Those who are homeless are still gonna remain so. The only way to really solve the problem is to increase supply, not decrease. And this is something the government, or rather its biggest influencer the property developers dread to think. Rather, they'd be keen to create a market that's more or less overheated where there is always more than enough buying power to consume new supplies. And that is indeed the case in recent years when developers push new supplies to new highs, so much so that even the overheated market start to cool down a bit.
+
+The government also took other measures to support heating the market such as encouraging talent import from mainland China who are gonna contribute directly to property rental market (which fuels buy/sell market) and grow into full-fledged tax payers upon graduation in 2~3 years. Even if they then leave, their tuitions / cost of living have still contributed to the GDP.
+
+If you wanna invest in this market, ask yourself, are you prepared to pay the bill for someone else's greed when the bubble bursts?
