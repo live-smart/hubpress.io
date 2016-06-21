@@ -9,7 +9,176 @@
 海淘鞋子怎样找到合脚的尺码？很多同学会去找所谓的尺码对照表，这东东其实非常不靠谱，因为不同品牌同一个尺码的真实大小可能不同。
 
 这里要为大家推荐一个我经过实战的方法，非常有效，那就是通过度量自己脚的长度来决定鞋码，下表以Hoka One One为例：
-image:https://cloud.githubusercontent.com/assets/19504323/15626212/5181fc5a-24f1-11e6-8561-286c1137df33.jpg[]
+
+++++
+		<table class="table table-striped table-bordered table-hover">
+          <thead>
+            <tr>
+              <td>U.K.</td>
+              <td>E.U.</td>
+              <td>U.S. (Men&rsquo;s)</td>
+              <td>U.S. (Women&rsquo;s)</td>
+              <td>Japan (cm)</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>3.5</td>
+              <td>36</td>
+              <td>4</td>
+              <td>5</td>
+              <td>22</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>36 2/3</td>
+              <td>4.5</td>
+              <td>5.5</td>
+              <td>22.5</td>
+            </tr>
+            <tr>
+              <td>4.5</td>
+              <td>37 1/3</td>
+              <td>5</td>
+              <td>6</td>
+              <td>23</td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td>38</td>
+              <td>5.5</td>
+              <td>6.5</td>
+              <td>23.5</td>
+            </tr>
+            <tr>
+              <td>5.5</td>
+              <td>38 2/3</td>
+              <td>6</td>
+              <td>7</td>
+              <td>24</td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td>39 1/3</td>
+              <td>6.5</td>
+              <td>7.5</td>
+              <td>24.5</td>
+            </tr>
+            <tr>
+              <td>6.5</td>
+              <td>40</td>
+              <td>7</td>
+              <td>8</td>
+              <td>25</td>
+            </tr>
+            <tr>
+              <td>7</td>
+              <td>40 2/3</td>
+              <td>7.5</td>
+              <td>8.5</td>
+              <td>25.5</td>
+            </tr>
+            <tr>
+              <td>7.5</td>
+              <td>41 1/3</td>
+              <td>8</td>
+              <td>9</td>
+              <td>26</td>
+            </tr>
+            <tr>
+              <td>8</td>
+              <td>42</td>
+              <td>8.5</td>
+              <td>9.5</td>
+              <td>26.5</td>
+            </tr>
+            <tr>
+              <td>8.5</td>
+              <td>42 2/3</td>
+              <td>9</td>
+              <td>10</td>
+              <td>27</td>
+            </tr>
+            <tr>
+              <td>9</td>
+              <td>43 1/3</td>
+              <td>9.5</td>
+              <td>10.5</td>
+              <td>27.5</td>
+            </tr>
+            <tr>
+              <td>9.5</td>
+              <td>44</td>
+              <td>10</td>
+              <td>11</td>
+              <td>28</td>
+            </tr>
+            <tr>
+              <td>10</td>
+              <td>44 2/3</td>
+              <td>10.5</td>
+              <td>11.5</td>
+              <td>28.5</td>
+            </tr>
+            <tr>
+              <td>10.5</td>
+              <td>45 1/3</td>
+              <td>11</td>
+              <td>12</td>
+              <td>29</td>
+            </tr>
+            <tr>
+              <td>11</td>
+              <td>46</td>
+              <td>11.5</td>
+              <td>12.5</td>
+              <td>29.5</td>
+            </tr>
+            <tr>
+              <td>11.5</td>
+              <td>46 2/3</td>
+              <td>12</td>
+              <td>13</td>
+              <td>30</td>
+            </tr>
+            <tr>
+              <td>12</td>
+              <td>47 1/3</td>
+              <td>12.5</td>
+              <td>13.5</td>
+              <td>30.5</td>
+            </tr>
+            <tr>
+              <td>12.5</td>
+              <td>48</td>
+              <td>13</td>
+              <td>14</td>
+              <td>31</td>
+            </tr>
+            <tr>
+              <td>13</td>
+              <td>48 2/3</td>
+              <td>13.5</td>
+              <td>14.5</td>
+              <td>31.5</td>
+            </tr>
+            <tr>
+              <td>13.5</td>
+              <td>49 1/3</td>
+              <td>14</td>
+              <td>15</td>
+              <td>32</td>
+            </tr>
+            <tr>
+              <td>14.5</td>
+              <td>50 2/3</td>
+              <td>15</td>
+              <td>16</td>
+              <td>33</td>
+            </tr>
+          </tbody>
+        </table>
+++++
 
 可以看到，例如女码25公分的脚，穿8码的鞋子，但因各人脚形不同有款有窄，建议买大半码即8.5码，较为保险，且会舒适很多。
 
