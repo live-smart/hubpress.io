@@ -3,7 +3,8 @@
     "username": "live-smart",
     "repositoryName": "live-smart.github.io",
     "branch": "master",
-    "delay": "2000"
+    "delay": "2000",
+    "cname": ""
   },
   "site": {
     "title": "Live Smart",
@@ -12,11 +13,24 @@
     "cover": "https://cloud.githubusercontent.com/assets/19504323/15453331/828a4ae8-2044-11e6-83e3-e1153288e4d9.jpeg",
     "googleAnalytics": "UA-78134426-1",
     "disqus": "live-smarter",
-    "url": "https://live-smart.github.io"
+    "url": "https://live-smart.github.io",
+    "delay": "2000",
+    "postsPerPage": ""
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": ""
+  },
   "theme": {
-    "name": "casper",
+    "name": "saga",
     "url": "//live-smart.github.io/themes/Casper"
   },
   "urls": {
