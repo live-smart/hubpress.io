@@ -1,6 +1,6 @@
 = Some Great Books on Investment
 See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-:hp-image: https://user-images.githubusercontent.com/19504323/33815732-a8032ec2-de6e-11e7-805a-d9d87b933c2a.png
+:hp-image: https://user-images.githubusercontent.com/19504323/33867919-ad3760a8-df3a-11e7-9085-0325dfa66345.png
 :published_at: 2018-11-28
 :hp-tags: investment, make money, revenue, income, profit
 :hp-alt-title: Some Great Books on Investment
@@ -41,6 +41,3 @@ Graham delves into the history of the stock market, and informs the reader on co
 This book conveys valuable insights into the psychology of success and abundance, and should be considered a priority read given the current age's emphasis on shock-value entertainment and negative news.
 
 The best investors did not emerge overnight, but honed their skills through years of thought, research and practice. When you are done with these books, here are several more to add to your reading list.
-
-
-Follow us: Investopedia on Facebook
