@@ -2,7 +2,7 @@
 :hp-image: https://user-images.githubusercontent.com/19504323/33706660-c5741c5c-db6f-11e7-8e29-0ee7dacbca3f.png
 :published_at: 2017-11-19
 :hp-tags: noise-cancelling, earphone, sony,
-:hp-alt-title: Sony WH-1000XM2 review
+:hp-alt-title: Sony WH-1000XM2 Review
 
 === What are the Sony WH-1000XM2?
 
