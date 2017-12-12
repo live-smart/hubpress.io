@@ -1,0 +1,5 @@
+= Best Diet for Programmers / Software Enginners / Hackers / Geeks
+:hp-image: https://user-images.githubusercontent.com/19504323/33812238-906637c2-de56-11e7-8384-c512020f2af1.png
+:published_at: 2017-11-30
+:hp-tags: diet, programmers, software engineers, hackers, geeks, health, shake, fibre, yoghurt, weight loss, probiotics
+:hp-alt-title: Best Diet for Programmers / Software Enginners / Hackers / Geeks
