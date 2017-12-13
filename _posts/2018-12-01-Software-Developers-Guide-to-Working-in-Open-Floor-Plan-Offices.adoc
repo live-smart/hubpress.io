@@ -33,6 +33,7 @@ Most of the developers probably don't have the luxury to work from home as of ye
 
 image::https://user-images.githubusercontent.com/19504323/33706660-c5741c5c-db6f-11e7-8e29-0ee7dacbca3f.png[link='http://amzn.to/2iVL8m4']
 
+
 ==== Quiet corner
 
 Most of the open floor plan offices are big enough to allow some quiet corners, but most managers don't know or don't have the incentive to optimize the usage of it. The result being, you often see a row of noisy followed by a row of developers, followed by a row of noisy guys and so on so forth. If you're able to negotiate with your manager so that you can work in a quieter corner of the buzz, definitely do it.
