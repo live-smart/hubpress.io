@@ -1,8 +1,8 @@
-= Programmers' Guide to Working in Open Floor Plan Offices
-:hp-image: https://user-images.githubusercontent.com/19504323/33893037-615a741c-df95-11e7-9638-44d557063450.png
+= Software Developers' Guide to Working in Open Floor Plan Offices
+:hp-image: https://user-images.githubusercontent.com/19504323/33892844-d681a266-df94-11e7-9ec4-0c3fe43f563c.png
 :published_at: 2018-12-01
-:hp-tags: programmer, software engineer, open office, open floor plan, open floor plan office, interference, interruption, earphone, headphone, work from home
-:hp-alt-title: Programmers' Guide to Working in Open Floor Plan Offices
+:hp-tags: developer, programmer, software engineer, open office, open floor plan, open floor plan office, interference, interruption, earphone, headphone, work from home
+:hp-alt-title: Software Developers' Guide to Working in Open Floor Plan Offices
 
 
 Offices with open floor plans have become ubiquitous in the tech industry. The idea is that eliminating physical barriers between workspaces also eliminates intellectual or interpersonal barriers to collaboration. And, of course, it’s a cost-efficient way to squeeze a lot of people into a small space.
@@ -27,10 +27,23 @@ Based on an analysis of 10,000 programming sessions recorded from 86 programmers
 
 So how would you as a programmer overcome this open office craziness and save yourself from distractions? Here we have listed several useful tips we think might be helpful.
 
-==== Pick a decent noise cancelling headphone / earphone
+==== Noise cancelling headphone / earphone
 
-You would probably want to use a decent noise cancelling headphone in office 
+Most of the developers probably don't have the luxury to work from home as of yet. If you're stuck in an office and forced to focus in a noisy surrouding, here's to your rescue: http://amzn.to/2iVL8m4[Sony WH-1000XM2], a great price-performance ratio high-end noise cancelling headphone that gives you back your inner zen in the mid of insanities.
 
+image::https://user-images.githubusercontent.com/19504323/33706660-c5741c5c-db6f-11e7-8e29-0ee7dacbca3f.png[link='http://amzn.to/2iVL8m4']
+
+==== Quiet corner
+
+Most of the open floor plan offices are big enough to allow some quiet corners, but most managers don't know or don't have the incentive to optimize the usage of it. The result being, you often see a row of noisy followed by a row of developers, followed by a row of noisy guys and so on so forth. If you're able to negotiate with your manager so that you can work in a quieter corner of the buzz, definitely do it.
+
+==== Alternative work schedule
+
+If possible, an alternative work schedule allows you to have minimal but enough overlap with people you'll need to work with. You then get to focus on coding when office is almost empty.
+
+==== Work from home
+
+Better yet, if you can work from home, you naturally get away from the sources of noise. But be sure to communicate well with your managers so that they don't think you're doing nothing at home.
 
 
 
