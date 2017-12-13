@@ -7,27 +7,27 @@
 
 === What are the Sony WH-1000XM2?
 
-In 2016, the Trusted Reviews award for Best Headphones went to the Sony MDR-1000X, excellent wireless and noise-cancelling headphones with an intelligent set of features. The https://goo.gl/AjEyM7[Sony WH-1000XM2] are their successor, and they’re a little better in almost every way.
+In 2016, the Trusted Reviews award for Best Headphones went to the Sony MDR-1000X, excellent wireless and noise-cancelling headphones with an intelligent set of features. The http://amzn.to/2iVL8m4[Sony WH-1000XM2] are their successor, and they’re a little better in almost every way.
 
-The market is tougher now, and Sony faces fierce competition from the https://goo.gl/VVSSN1[Bose QuietComfort 35 II] and https://goo.gl/55w1xd[B&W PX]. But the new https://goo.gl/AjEyM7[Sony WH-1000XM2] get so many things right it’s hard to fault them. They sound great, the noise cancellation is effective, and most of the features are genuinely useful.
+The market is tougher now, and Sony faces fierce competition from the http://amzn.to/2z5oZKX[Bose QuietComfort 35 II] and http://amzn.to/2Azwhco[B&W PX]. But the new http://amzn.to/2iVL8m4[Sony WH-1000XM2] get so many things right it’s hard to fault them. They sound great, the noise cancellation is effective, and most of the features are genuinely useful.
 
 If you’re looking for an everyday pair of headphones, these are hard to beat.
 
 === Design
 
-The https://goo.gl/uua9y2[Sony MDR-1000X] had an excellent design that didn’t need fixing, so Sony has basically left it alone. That’s fine, since it meant the company could spare some resources towards expanding the https://goo.gl/AjEyM7[WH-1000XM2] range – check out the https://goo.gl/VPJvqq[Sony WF-1000X] wireless earbuds.
+The http://amzn.to/2nSPJLj[Sony MDR-1000X] had an excellent design that didn’t need fixing, so Sony has basically left it alone. That’s fine, since it meant the company could spare some resources towards expanding the http://amzn.to/2iVL8m4[WH-1000XM2] range – check out the http://amzn.to/2iZKcxl[Sony WF-1000X] wireless earbuds.
 
-Anyway, the https://goo.gl/AjEyM7[Sony WH-1000XM2] are more of a facelift than a makeover – there are a few minor improvements over the original, but unless you’re really looking for them you probably won’t notice.
+Anyway, the http://amzn.to/2iVL8m4[Sony WH-1000XM2] are more of a facelift than a makeover – there are a few minor improvements over the original, but unless you’re really looking for them you probably won’t notice.
 
 They still look very smart, with the same streamlined silhouette and hardly any branding. The body is mainly plastic, with polished metal in the headband and good quality synthetic leather at the ears.
 
-The paintjob is a little different: the beige version is now closer to champagne gold, while the black version is more gunmetal greyish blue. This adds a little visual flair, but the overall effect is no less subtle. If you want something with an executive vibe, the https://goo.gl/ZxCqBW[Sony WH-1000XM2] will do nicely.
+The paintjob is a little different: the beige version is now closer to champagne gold, while the black version is more gunmetal greyish blue. This adds a little visual flair, but the overall effect is no less subtle. If you want something with an executive vibe, the http://amzn.to/2iVL8m4[Sony WH-1000XM2] will do nicely.
 
 image::https://user-images.githubusercontent.com/19504323/33707661-1abce4d4-db73-11e7-9563-da24f9f08f1c.png[link="http://amzn.to/2japefG"]
 
 The synthetic leather on the outside of the ear cups has been swapped for a more tactile alternative. It’s less smooth to the touch – some might say it’s more plasticky – but I feel it’s thicker and tougher. I welcome this change, because the smooth finish of the original always seemed at risk of scratching. Now I feel a little less bad throwing them straight into my bag without first using the protective carry case.
 
-What hasn’t changed is the polyurethane foam stuffed into the headband and ear pads. They’re as squishy as ever, and the https://goo.gl/AjEyM7[Sony WH-1000XM2] are as comfortable as their predecessors. Clamp force is just right; they hold the sides of your head but never squeeze. As before, the headband expands with satisfying clicks. The earcups can fold inwards on hinges, as well as swivel flat.
+What hasn’t changed is the polyurethane foam stuffed into the headband and ear pads. They’re as squishy as ever, and the http://amzn.to/2iVL8m4[Sony WH-1000XM2] are as comfortable as their predecessors. Clamp force is just right; they hold the sides of your head but never squeeze. As before, the headband expands with satisfying clicks. The earcups can fold inwards on hinges, as well as swivel flat.
 
 The buttons have been streamlined. Power/pairing remains where it is, but noise cancelling and ambient sound adjustment have been merged into one. That makes it a little harder to press the wrong thing, which might sound minor, but there’s value in being able to just get on with your listening.
 
@@ -35,7 +35,7 @@ The buttons have been streamlined. Power/pairing remains where it is, but noise 
 
 The improvements to the features list is a lot less subtle. There have been quite a lot of tweaks and additions.
 
-The Bluetooth has been upgraded. The https://goo.gl/AjEyM7[Sony WH-1000XM2] are compatible with aptX HD, a higher quality Bluetooth format that can handle hi-res audio up to 24bit/48kHz. LDAC is also included, and it can handle 24bit/96kHz, but it’s a proprietary Sony format, limited to Sony devices. The left ear has an NFC chip for quicker Bluetooth pairing.
+The Bluetooth has been upgraded. The http://amzn.to/2iVL8m4[Sony WH-1000XM2] are compatible with aptX HD, a higher quality Bluetooth format that can handle hi-res audio up to 24bit/48kHz. LDAC is also included, and it can handle 24bit/96kHz, but it’s a proprietary Sony format, limited to Sony devices. The left ear has an NFC chip for quicker Bluetooth pairing.
 
 The touch-sensitive control pad on the right ear cup has been tightened up, so your inputs feel more accurate and responsive.The Quick Attention mode, where you hold your palm to the right ear to mute, remains unchanged.
 
@@ -55,15 +55,15 @@ Less useful are the virtual positioning and virtual surround modes. The first le
 
 There’s also the DSEE (Digital Sound Enhancement Engine) processing, which claims to upscale compressed audio. This was on all the time in the previous version, but now you have the option to turn it off. I’d leave it on as it actually helps a little.
 
-It would be reasonable to assume all these features sap battery life, but there is actually more juice than ever. The original 1000X lasted up to 20 hours, but the https://goo.gl/AjEyM7[Sony WH-1000XM2] goes up to 30 hours (wireless) or 40 hours (wired).
+It would be reasonable to assume all these features sap battery life, but there is actually more juice than ever. The original 1000X lasted up to 20 hours, but the http://amzn.to/2iVL8m4[Sony WH-1000XM2] goes up to 30 hours (wireless) or 40 hours (wired).
 
 There’s even a quick charge feature – 10 minutes at the mains will give you 70 minutes’ play time. A few headphone manufacturers have switched over to USB-C for power, but Sony has stuck with the ubiquitous microUSB.
 
 === Performance
 
-When it comes to noise cancellation, the https://goo.gl/AjEyM7[Sony WH-1000XM2] are some of the best you can buy. I put them through a varied assault course including excited cafe chatter, rattling train carriages, roadworks with pneumatic drills and speakers blasting plane engine noises – the https://goo.gl/AjEyM7[WH-1000XM2] dialled all that down to a whisper.
+When it comes to noise cancellation, the http://amzn.to/2iVL8m4[Sony WH-1000XM2] are some of the best you can buy. I put them through a varied assault course including excited cafe chatter, rattling train carriages, roadworks with pneumatic drills and speakers blasting plane engine noises – the http://amzn.to/2iVL8m4[WH-1000XM2] dialled all that down to a whisper.
 
-They’re not quite as deadly silent as the https://goo.gl/VVSSN1[Bose QuietComfort 35 II], but it’s not a huge difference, and they’re more effective than the https://goo.gl/55w1xd[B&W PX]. I could (and did) fall asleep listening to these headphones on a train.
+They’re not quite as deadly silent as the http://amzn.to/2z5oZKX[Bose QuietComfort 35 II], but it’s not a huge difference, and they’re more effective than the http://amzn.to/2Azwhco[B&W PX]. I could (and did) fall asleep listening to these headphones on a train.
 
 It’s not just the effective noise cancellation that impresses me – it’s the smart element that Sony has introduced. The headphone app works with the accelerometers in your phone to determine whether you’re at rest, in motion or in transit – and the levels of noise cancellation really do change accordingly.
 
@@ -71,20 +71,20 @@ In ‘Staying’ mode, the headphones let some voices in so I could still tell i
 
 image::https://user-images.githubusercontent.com/19504323/33708007-36ebc052-db74-11e7-866e-3dcaebd9a4f4.png[link="http://amzn.to/2japefG"]
 
-As for audio performance, the https://goo.gl/AjEyM7[WH-1000XM2] have many of the traits I admired so much about the original. They’re a hugely entertaining listen, thanks to a combination of hard-hitting dynamism, boundless energy and impressive rhythmic precision.
+As for audio performance, the http://amzn.to/2iVL8m4[WH-1000XM2] have many of the traits I admired so much about the original. They’re a hugely entertaining listen, thanks to a combination of hard-hitting dynamism, boundless energy and impressive rhythmic precision.
 
 That agility partly comes down to its impressive articulation and neutral tonal balance. No part of the frequency range feels exaggerated, and everything is nicely defined. There’s no flab to the bass, the midrange is direct and succinct, and the treble is clean, free of sibilance. It’s a very tidy presentation.
 
-Compared to the original MDR-1000X, I found the https://goo.gl/AjEyM7[WH-1000XM2] to be a little clearer and more hard-hitting. But the audio components are the same, so I’m going to put this down to the fact that I was using aptX HD compatible music devices (an LG G6 and Astell & Kern AK70). In wired mode, there was no discernable difference.
+Compared to the original MDR-1000X, I found the http://amzn.to/2iVL8m4[WH-1000XM2] to be a little clearer and more hard-hitting. But the audio components are the same, so I’m going to put this down to the fact that I was using aptX HD compatible music devices (an LG G6 and Astell & Kern AK70). In wired mode, there was no discernable difference.
 
-=== Why buy the https://goo.gl/ZxCqBW[Sony WH-1000XM2]?
+=== Why buy the http://amzn.to/2iVL8m4[Sony WH-1000XM2]?
 
-The https://goo.gl/AjEyM7[Sony WH-1000XM2] have improved on their predecessors in nearly every way. The physical design has been tweaked for the better, the audio performance is stronger, and the noise cancellation is smarter.
+The http://amzn.to/2iVL8m4[Sony WH-1000XM2] have improved on their predecessors in nearly every way. The physical design has been tweaked for the better, the audio performance is stronger, and the noise cancellation is smarter.
 
-So the competition is tougher this year, but that’s not a problem for Sony. The https://goo.gl/VVSSN1[Bose QuietComfort 35 II] offer more effective noise cancellation, but they’re not as musically talented. The https://goo.gl/55w1xd[B&W PX] are the best-sounding of the lot, but they’re not as smart or as good at noise-cancelling.
+So the competition is tougher this year, but that’s not a problem for Sony. The http://amzn.to/2z5oZKX[Bose QuietComfort 35 II] offer more effective noise cancellation, but they’re not as musically talented. The http://amzn.to/2Azwhco[B&W PX] are the best-sounding of the lot, but they’re not as smart or as good at noise-cancelling.
 
 Sony, meanwhile, have excellent all-rounders that excel in every department.
 
 === Verdict
-The best just got better.
+The best just got better. http://amzn.to/2iVL8m4[Try it out] for yourself now.
 
