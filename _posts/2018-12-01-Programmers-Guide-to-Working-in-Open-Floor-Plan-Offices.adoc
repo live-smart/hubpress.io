@@ -1,7 +1,7 @@
 = Programmers' Guide to Working in Open Floor Plan Offices
 :hp-image: https://user-images.githubusercontent.com/19504323/33893037-615a741c-df95-11e7-9638-44d557063450.png
 :published_at: 2018-12-01
-:hp-tags: programmer, open office, open floor plan, open floor plan office, interference, interruption, earphone, headphone, work from home
+:hp-tags: programmer, software engineer, open office, open floor plan, open floor plan office, interference, interruption, earphone, headphone, work from home
 :hp-alt-title: Programmers' Guide to Working in Open Floor Plan Offices
 
 
