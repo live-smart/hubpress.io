@@ -30,13 +30,13 @@
     "stackoverflow": ""
   },
   "theme": {
-    "name": "ichi",
+    "name": "casper",
     "url": "//live-smart.github.io/themes/Casper"
   },
   "urls": {
     "site": "https://live-smart.github.io",
     "hubpress": "http://live-smart.github.io",
-    "theme": "//live-smart.github.io/themes/casper",
+    "theme": "//live-smart.github.io/themes/ichi",
     "images": "https://live-smart.github.io/images"
   },
   "initialisationConfigComponent": {
