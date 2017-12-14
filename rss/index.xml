@@ -1,75 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Live Smart]]></title><description><![CDATA[Quality Life, Money Saving, Smart Shopping]]></description><link>https://live-smart.github.io</link><image><url>https://cloud.githubusercontent.com/assets/19504323/15453331/828a4ae8-2044-11e6-83e3-e1153288e4d9.jpeg</url><title>Live Smart</title><link>https://live-smart.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 14 Dec 2017 07:58:15 GMT</lastBuildDate><atom:link href="https://live-smart.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Learn Programming the Right Way]]></title><description><![CDATA[<div id="preamble">
-<div class="sectionbody">
-<div class="paragraph">
-<p>TL;DR, here are the books that will pave your way to a becoming a successful programmer. Be sure to read them in the right order.</p>
-</div>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="http://amzn.to/2AD6OPc">Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</a></p>
-</li>
-<li>
-<p><a href="http://amzn.to/2jTiQto">Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX</a></p>
-</li>
-<li>
-<p><a href="http://amzn.to/2j3pxZf">C Programming Language</a></p>
-</li>
-</ol>
-</div>
-<div class="paragraph">
-<p>Once you go through above books, you&#8217;ll be ready for a developer career in any direction.</p>
-</div>
-<div class="paragraph">
-<p>A lot of us who&#8217;re just getting started in programming often are misled into starting with reading a book on one of the programming languages, such as C. This is unfortunately terribly wrong for beginners in my opinion. It&#8217;s like for a baby to learn to walk before she can crawl.</p>
-</div>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_crawl_stage">Crawl Stage</h4>
-<div class="paragraph">
-<p>Programming language like C are called high-level languages, despite there are much higher level languages out there. During the Crawl Stage it&#8217;s important to acknowledge that you should kick off with something lower than a high-level language.</p>
-</div>
-<div class="paragraph">
-<p>A first step I would recommend is to learn how a computer works. This is nothing to do with software yet. It&#8217;s the hardware level of things, such as CPU, buses, memory that determine how software is run. Programming without knowledge at this level is like driving a car without knowing how an engine works - You wouldn&#8217;t get very far.</p>
-</div>
-<div class="paragraph">
-<p><a href="http://amzn.to/2AD6OPc">Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</a> is exactly a book for that.</p>
-</div>
-<div class="paragraph">
-<p>Once you are familiar with how computers work under the hood, it&#8217;s time to learn how to command them to do stuff for you. But no rush yet. You surely can command them with any programming language, but do start with Assembly, which is a machine level language that directly works with CPU, registers, memory, etc. All languages are eventually compiled to machine code, but Assembly is the lowest-level possible human readable language you can access.</p>
-</div>
-<div class="paragraph">
-<p><a href="http://amzn.to/2jTiQto">Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX</a> would be great book on that.</p>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_walk_stage">Walk Stage</h4>
-<div class="paragraph">
-<p>Virtually no one uses Assembly language to code real world applications. It&#8217;s not as wieldy as we desire. High-level languages such as C, Java help abstract away many details and encapsulate what can be blocks or pages of code in Assembly within much more concise and human-readable code structure.</p>
-</div>
-<div class="paragraph">
-<p><a href="http://amzn.to/2j3pxZf">C Programming Language</a> is a book I would recommend even if you don&#8217;t need it in your job. It&#8217;s got a lot of what you need to know about a high-level language such as basic logic structures, arithmetic operations, function definitions, etc. You&#8217;ll find it much smoother with other languages once you grasp this one.</p>
-</div>
-<div class="paragraph">
-<p>I&#8217;ll later write about higher-level languages and programming paradigms. Stay tuned.</p>
-</div>
-<div class="sect5">
-<h6 id="_books_recommended_in_this_post">Books recommended in This Post</h6>
-<div class="olist arabic">
-<ol class="arabic">
-<li>
-<p><a href="http://amzn.to/2AD6OPc">Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</a></p>
-</li>
-<li>
-<p><a href="http://amzn.to/2jTiQto">Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX</a></p>
-</li>
-<li>
-<p><a href="http://amzn.to/2j3pxZf">C Programming Language</a></p>
-</li>
-</ol>
-</div>
-</div>
-</div>]]></description><link>https://live-smart.github.io/2018/12/14/Learn-Programming-the-Right-Way.html</link><guid isPermaLink="true">https://live-smart.github.io/2018/12/14/Learn-Programming-the-Right-Way.html</guid><category><![CDATA[programming]]></category><category><![CDATA[development]]></category><category><![CDATA[assembly]]></category><category><![CDATA[computer architecture]]></category><category><![CDATA[c]]></category><dc:creator><![CDATA[Smart Buddy]]></dc:creator><pubDate>Fri, 14 Dec 2018 00:00:00 GMT</pubDate></item><item><title><![CDATA[Software Developers' Guide to Working in Open Floor Plan Office]]></title><description><![CDATA[<div id="preamble">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Live Smart]]></title><description><![CDATA[Quality Life, Money Saving, Smart Shopping]]></description><link>https://live-smart.github.io</link><image><url>https://cloud.githubusercontent.com/assets/19504323/15453331/828a4ae8-2044-11e6-83e3-e1153288e4d9.jpeg</url><title>Live Smart</title><link>https://live-smart.github.io</link></image><generator>RSS for Node</generator><lastBuildDate>Thu, 14 Dec 2017 08:09:43 GMT</lastBuildDate><atom:link href="https://live-smart.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Software Developers' Guide to Working in Open Floor Plan Office]]></title><description><![CDATA[<div id="preamble">
 <div class="sectionbody">
 <div class="paragraph">
 <p>Offices with open floor plans have become ubiquitous in the tech industry. The idea is that eliminating physical barriers between workspaces also eliminates intellectual or interpersonal barriers to collaboration. And, of course, it’s a cost-efficient way to squeeze a lot of people into a small space.</p>
@@ -382,7 +311,78 @@
 <div class="paragraph">
 <p>The best just got better. <a href="http://amzn.to/2iVL8m4">Try it out</a> for yourself now.</p>
 </div>
-</div>]]></description><link>https://live-smart.github.io/2017/11/19/Sony-WH-1000X-M-Noise-Cancelling-Wireless-Headphone.html</link><guid isPermaLink="true">https://live-smart.github.io/2017/11/19/Sony-WH-1000X-M-Noise-Cancelling-Wireless-Headphone.html</guid><category><![CDATA[noise-cancelling]]></category><category><![CDATA[earphone]]></category><category><![CDATA[sony]]></category><dc:creator><![CDATA[Smart Buddy]]></dc:creator><pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Allergy, Dust Mites, and Solution]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://live-smart.github.io/2017/11/19/Sony-WH-1000X-M-Noise-Cancelling-Wireless-Headphone.html</link><guid isPermaLink="true">https://live-smart.github.io/2017/11/19/Sony-WH-1000X-M-Noise-Cancelling-Wireless-Headphone.html</guid><category><![CDATA[noise-cancelling]]></category><category><![CDATA[earphone]]></category><category><![CDATA[sony]]></category><dc:creator><![CDATA[Smart Buddy]]></dc:creator><pubDate>Sun, 19 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Learn Programming the Right Way]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
+<p>TL;DR, here are the books that will pave your way to a becoming a successful programmer. Be sure to read them in the right order.</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://amzn.to/2AD6OPc">Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</a></p>
+</li>
+<li>
+<p><a href="http://amzn.to/2jTiQto">Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX</a></p>
+</li>
+<li>
+<p><a href="http://amzn.to/2j3pxZf">C Programming Language</a></p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>Once you go through above books, you&#8217;ll be ready for a developer career in any direction.</p>
+</div>
+<div class="paragraph">
+<p>A lot of us who&#8217;re just getting started in programming often are misled into starting with reading a book on one of the programming languages, such as C. This is unfortunately terribly wrong for beginners in my opinion. It&#8217;s like for a baby to learn to walk before she can crawl.</p>
+</div>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_crawl_stage">Crawl Stage</h4>
+<div class="paragraph">
+<p>Programming language like C are called high-level languages, despite there are much higher level languages out there. During the Crawl Stage it&#8217;s important to acknowledge that you should kick off with something lower than a high-level language.</p>
+</div>
+<div class="paragraph">
+<p>A first step I would recommend is to learn how a computer works. This is nothing to do with software yet. It&#8217;s the hardware level of things, such as CPU, buses, memory that determine how software is run. Programming without knowledge at this level is like driving a car without knowing how an engine works - You wouldn&#8217;t get very far.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://amzn.to/2AD6OPc">Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</a> is exactly a book for that.</p>
+</div>
+<div class="paragraph">
+<p>Once you are familiar with how computers work under the hood, it&#8217;s time to learn how to command them to do stuff for you. But no rush yet. You surely can command them with any programming language, but do start with Assembly, which is a machine level language that directly works with CPU, registers, memory, etc. All languages are eventually compiled to machine code, but Assembly is the lowest-level possible human readable language you can access.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://amzn.to/2jTiQto">Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX</a> would be great book on that.</p>
+</div>
+</div>
+<div class="sect3">
+<h4 id="_walk_stage">Walk Stage</h4>
+<div class="paragraph">
+<p>Virtually no one uses Assembly language to code real world applications. It&#8217;s not as wieldy as we desire. High-level languages such as C, Java help abstract away many details and encapsulate what can be blocks or pages of code in Assembly within much more concise and human-readable code structure.</p>
+</div>
+<div class="paragraph">
+<p><a href="http://amzn.to/2j3pxZf">C Programming Language</a> is a book I would recommend even if you don&#8217;t need it in your job. It&#8217;s got a lot of what you need to know about a high-level language such as basic logic structures, arithmetic operations, function definitions, etc. You&#8217;ll find it much smoother with other languages once you grasp this one.</p>
+</div>
+<div class="paragraph">
+<p>I&#8217;ll later write about higher-level languages and programming paradigms. Stay tuned.</p>
+</div>
+<div class="sect5">
+<h6 id="__books_recommended_in_this_post">* Books recommended in This Post</h6>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p><a href="http://amzn.to/2AD6OPc">Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture</a></p>
+</li>
+<li>
+<p><a href="http://amzn.to/2jTiQto">Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX</a></p>
+</li>
+<li>
+<p><a href="http://amzn.to/2j3pxZf">C Programming Language</a></p>
+</li>
+</ol>
+</div>
+</div>
+</div>]]></description><link>https://live-smart.github.io/2017/11/11/Learn-Programming-the-Right-Way.html</link><guid isPermaLink="true">https://live-smart.github.io/2017/11/11/Learn-Programming-the-Right-Way.html</guid><category><![CDATA[programming]]></category><category><![CDATA[development]]></category><category><![CDATA[assembly]]></category><category><![CDATA[computer architecture]]></category><category><![CDATA[c]]></category><dc:creator><![CDATA[Smart Buddy]]></dc:creator><pubDate>Sat, 11 Nov 2017 00:00:00 GMT</pubDate></item><item><title><![CDATA[Allergy, Dust Mites, and Solution]]></title><description><![CDATA[<div class="paragraph">
 <p>Have you ever experienced symptoms of allergy such as rhinitis, nasal congestion, asthma, urticaria? I&#8217;ve had serious rhinitis and nasal congestion during sleep since I was born, and absolutely no idea what has gone wrong. I tried different treatments such as ephedrine nasal spray, septum reconstructomy, polypectomy, none of which really worked. I&#8217;ve been waking up during mid of night just to get some air before I suffocate. That is until recently after I found a solution for this, one that solves it for good.</p>
 </div>
 <div class="paragraph">
