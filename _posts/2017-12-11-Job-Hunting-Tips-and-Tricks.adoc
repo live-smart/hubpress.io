@@ -1,0 +1,79 @@
+= Job Hunting Tips and Tricks
+:hp-image: https://user-images.githubusercontent.com/19504323/33999261-fa1d9da6-e124-11e7-9bd1-c1a893cf675f.png
+:published_at: 2017-12-11
+:hp-tags: job, job searching, job seeking, job hunting, finding job, recruitment, hr, career, hire,
+:hp-alt-title: Job Hunting Tips and Tricks
+
+
+The way we go about getting jobs has changed. Through technology and the networks that offer more intel on our prospective employers, we are better prepared than ever to find the right career path.
+
+The latest generation of job-seekers is also different, and not only in how it approaches the task of finding work, but in its philosophy and attitude.
+
+Finding the right occupation is important not just for scoring a paycheck in an expensive world, but for career happiness. You, at 22, are going to work, in all likelihood, for 50 years. Make sure you love it.
+
+
+==== The New Job Hunters
+
+There is a fearlessness about this generation. They are risk-takers, they are willing the try something new, they are willing to punch above their weight.
+
+Younger people looking for work today also have a different outlook on failure in that they are more willing to learn from failure and do not see it as a source of shame that would forever stain their resumes. It's generation that has come into the workforce and has been made bolder through the use of technology and information.
+
+Because job seekers have more access to intel – through LinkedIn, Glassdoor and other such sites – they simply know more about companies they are contemplating working for and have the power to contact employees of those firms. Because of that the interview process has become more collaborative and much more transparent.
+
+
+==== Is It Time To Find Something New?
+
+One important element in a job search process is knowing, first of all, when it’s the right time to look for a new job. That means asking yourself several questions: Do you feel like you are growing in your role? Do you have the type of relationship with your manager that you want to have? And, do you see a career path laid out before you? If you have an honest conversation in those three areas, It’s pretty easy to figure out whether you’ve hit a rough patch that you can work through, or if it is time to move on.
+
+If you identify discontent in one or more of these areas, be aware that you might be able to rectify your situation by speaking with your manager or HR rep. If you do so and still feel unhappy, then you need to start the search process.
+
+• As it always has been, http://amzn.to/2o3iyVx[networking] is key. The difference now, of course, is that there are tools to do it. An internal referral or even a LinkedIn introduction can set you apart from the pack.
+
+• Social Media is important for job candidates. If you are not in a confidential search, posting to your social networks that you are looking, and what you are looking for, is an important form of networking.
+
+• Organizations still post to job sites. While http://amzn.to/2o3iyVx[LinkedIn], Monster and Career Builders are still relevant, http://amzn.to/2ytviEO[Indeed.com] scrapes corporate web sites, so look there too. Don’t ignore, ZipRecruiter, Simply Hired and Mighty Recruiter.
+
+• Cold Calling is an option. If you have identified one or more organizations, that you believe offer the ideal work and environment, but they do not have a position posted, you can cold call.  Using publically available information, or your network for an introduction, you can send your resume and a cover letter requesting a call or visit to learn more about the company and to introduce yourself for future consideration.  Many businesses will make “opportunity hires” when they meet a great person and know they will have a need, but don’t have an open position quite yet
+
+
+==== Sending Your Application
+
+* Your resume must be flawless: spelling, grammar and accuracy still matter and can be the difference between being screened for the position and being screened out of consideration. Read http://amzn.to/2AXvGOL[How to Write a KILLER LinkedIn Profile... And 18 Mistakes to Avoid]
+
+* The Cover Letter is not dead, but it looks different than it used to. A brief, meaningful, unique cover letter will get attention. Recruiters want to know that you actually read the job posting and believe that you are a fit, not that you are applying based on a key word search.
+
+
+==== Vetting A Job Offer
+
+When you do receive a job offer, it’s important to understand the compensation and benefits packages that employers offer, such as…
+
+. Base salary or hourly rate and the possibility for overtime pay
+. Any bonus structure or signing bonus
+. Tuition reimbursement and professional development costs
+. Relocation assistance
+. Housing, transportation, meals
+
+* On-line salary data can be useful in determining if you have received a “market rate” offer. Sites like, Glassdoor, Salry.com and PayScales can help in your research, but because they rely on candidates reporting their salary, do tend to run about 10% higher than reality.
+
+* Making a connection with the people you will be working for and with, will affect how much you like, and how well you do in your job. In the best fits, candidates report an ease in communicating and a sense of shared vision.  If your conversations with folks at the hiring company were awkward, or understanding was difficult, this may not be the right role for you.
+
+* Going back to your original list from preparing for a search, does this offer provide good work, with good people, in a good environment for you? Answer those questions for yourself.
+
+
+==== Hot Skills And Industries
+
+Right now one of the most in-demand or beneficial skills a job applicant can have is some level of coding or understanding of software language. There’s virtually no limit to what somebody who can do some basic programming can do in the workplace because it’s not just for engineering anymore. It has invaded marketing and finance and HR—we’re all working on databases. We’ve turned into a workforce dependent upon databases, so having any kind of technical savvy there is going to enhance your career.
+
+For this, you might find http://amzn.to/2o4QiBB[Python Data Science Handbook: Essential Tools for Working with Data] useful.
+
+Engineering, as an industry, is hot. Mechanical engineering, as a job, is in high demand. The technical demands of many engineering jobs are starting to blur the lines between white and blue collar workers.
+
+Another space to watch is http://amzn.to/2zcM1jn[healthcare], especially as it pertains to the Baby Boomer generation. Everything from home healthcare to skilled planning to housing and even financial planning for retirees or those whose careers have slowed.
+
+
+==== The Future Of Job Hunting
+
+Job seekers have never been as empowered as they are now, given the ease of research and the easy access to professional networks. This is leading to a reality in which they can, with a few simple clicks, apply for numerous jobs within a small timeframe. Since it’s so simple to apply for work, it’s harder to ascertain from simple applications who wants the job more. Going back eight or nine years, there was a natural hindrance to applying—you had to really want it. You had to know what you were talking about, you had to understand the job, you had to write the cover letter—there was an intentionality about applying that we’ve lost.
+
+That makes life harder for recruiters, who are forced to deal with a higher volume of applicants that can, with the press of a button, hurl reams of resume and qualification data at them. So being able to http://amzn.to/2jUefHr[stand out] among such competition is crucial to any job seeker.
+
