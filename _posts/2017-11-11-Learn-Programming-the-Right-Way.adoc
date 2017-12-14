@@ -1,6 +1,6 @@
 = Learn Programming the Right Way
 :hp-image: https://user-images.githubusercontent.com/3829878/33979532-b7757b08-e0df-11e7-8288-35ded441d9a7.png
-:published_at: 2018-12-14
+:published_at: 2017-11-11
 :hp-tags: programming, development, assembly, computer architecture, c,
 :hp-alt-title: Learn Programming the Right Way
 
@@ -35,7 +35,7 @@ http://amzn.to/2j3pxZf[C Programming Language] is a book I would recommend even 
 
 I'll later write about higher-level languages and programming paradigms. Stay tuned.
 
-====== Books recommended in This Post
+====== * Books recommended in This Post
 
 . http://amzn.to/2AD6OPc[Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture]
 . http://amzn.to/2jTiQto[Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX]
