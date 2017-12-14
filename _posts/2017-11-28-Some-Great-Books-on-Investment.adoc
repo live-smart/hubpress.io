@@ -1,0 +1,53 @@
+= Some Great Books on Investment
+See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: https://user-images.githubusercontent.com/19504323/33867919-ad3760a8-df3a-11e7-9085-0325dfa66345.png
+:published_at: 2018-11-28
+:hp-tags: investment, make money, revenue, income, profit
+:hp-alt-title: Some Great Books on Investment
+
+It's imperative for young adults and professionals to start investing early. One of the main reasons for doing so is to obtain the power of compound interest; by holding long-term investments, one can allow his or her assets to generate more returns. Investing just a few years earlier could translate into tens of thousands, if not hundreds of thousands, of additional funds for your retirement nest egg.
+
+But while it is important to invest early, it is also important to invest wisely. These five classic investing books can provide indispensable business and finance insights for young investors.
+
+=== http://amzn.to/2Av1Vrp["Rich Dad, Poor Dad" (2000)] by Robert Kiyosaki
+
+image::https://user-images.githubusercontent.com/19504323/33874370-7a2599a4-df59-11e7-86f1-453de69da698.png[link='http://amzn.to/2Av1Vrp']
+
+This classic is a must-read for young investors. Kiyosaki's view is that the poor and middle class work for money, but the rich work to learn. He stresses the importance of financial literacy, and presents financial independence as the ultimate goal, and a way to avoid the rat race of corporate America. The author points out that while accounting is important to learn, it can also be misleading. Banks label a house as an asset for the individual, but because of the required payments to keep it, it can really be a liability in terms of cash flow. Real assets add cash flow to your wallet.
+
+Kiyosaki advocates investments that produce periodic cash flow for the investor while providing upside in terms of equity value. Real estate investments and stocks that provide dividends are viewed favorably. The author advises that America's educational system is designed to keep people working hard for the rest of their lives, and that the school system does a poor job of teaching people to create enough wealth so they won't have to work anymore. Kiyosaki also highlights the importance of tax planning.
+
+=== http://amzn.to/2AYFWbA["The Essays of Warren Buffett: Lessons For Corporate America" (1997)] by Warren Buffett
+
+image::https://user-images.githubusercontent.com/19504323/33874451-d45575ca-df59-11e7-82a2-278ecb536ae8.png[link='http://amzn.to/2AYFWbA']
+
+In his essays, Warren Buffett—widely considered to be modern history's most successful investor—provides his views on a variety of topics important to corporate America and shareholders. Young investors can get a glimpse of the interface between a company's management and its shareholders, as well as the thought processes involved in enhancing a company's enterprise value.
+
+Buffett's essays include discussions on corporate governance, finance, investing, alternatives to common stock, mergers and acquisitions, accounting and valuation, accounting policy, and tax matters. Buffett outlines his basic business principles, and as the steward of Berkshire Hathaway Inc. (BRK-A
+), informs the shareholders of the company that their mutual interests are aligned. He has a philosophy of bringing in talented managers at portfolio companies and leaving them alone. He advocates purchasing shares of businesses at times when these stocks are trading at a discount from their inherent value. He opposes following investing trends.
+
+=== http://amzn.to/2Au8Y3C["Beating the Street" (1994)] by Peter Lynch
+
+image::https://user-images.githubusercontent.com/19504323/33874512-044dd2d6-df5a-11e7-9a03-8ee3740e57ec.png[link='http://amzn.to/2Au8Y3C']
+
+Peter Lynch is one of the most successful stock market investors and hedge fund managers of the 20th century. He started out as an intern at Fidelity Investments in the mid 1960s. Nearly 11 years later, he was tasked to manage the Magellan Fund, which at the time had close to $18 million in assets. By 1990, the fund had grown to a whopping $18 billion in assets with nearly 1,000 stock positions. During this time, the fund boasted average returns of more than 29% per year.
+
+"Beating The Street" allows the reader to peek into Lynch's mind and thought processes in terms of deciding whether to buy or sell a stock. Lynch believes that an individual investor could exploit market opportunities better than Wall Street, and encourages investors to invest in what they know.
+
+=== http://amzn.to/2kWFFQb["The Intelligent Investor" (1949)] by Benjamin Graham
+
+image::https://user-images.githubusercontent.com/19504323/33874540-23efa4a2-df5a-11e7-84c2-e08ebc4353fa.png[link='http://amzn.to/2kWFFQb']
+
+This book was written in 1949 and has been hailed by Warren Buffett as the best investing book ever written. Benjamin Graham is considered the "father of value investing." This paradigm advocates the purchase of stocks that appear under-priced relative to their inherent value, which is determined through fundamental analysis.
+
+Graham delves into the history of the stock market, and informs the reader on conducting fundamental analysis on a stock. He discusses various ways of managing your portfolio including both a positive and defensive approach. He then compares the stocks of several companies to illustrate his points.
+
+=== http://amzn.to/2yZumM1["Think and Grow Rich" (1937)] by Napoleon Hill
+
+image::https://user-images.githubusercontent.com/19504323/33874699-9dee87a0-df5a-11e7-8b1c-d58cc3629e0b.png[link='http://amzn.to/2yZumM1']
+
+"Think and Grow Rich" was written during the Great Depression, and has since sold more than 30 million copies worldwide. Hill conducted extensive research based on his associations with wealthy individuals during his lifetime. At the suggestion of Andrew Carnegie, Hill published 13 principles for success and personal achievement from his observations and research. These include desire, faith, specialized knowledge, organized planning, persistence and the "sixth sense." Hill also believed in brainstorming with like-minded people, whose efforts can create synergistic energy.
+
+This book conveys valuable insights into the psychology of success and abundance, and should be considered a priority read given the current age's emphasis on shock-value entertainment and negative news.
+
+The best investors did not emerge overnight, but honed their skills through years of thought, research and practice. When you are done with these books, here are several more to add to your reading list.
