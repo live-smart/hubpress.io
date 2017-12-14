@@ -36,7 +36,7 @@
   "urls": {
     "site": "https://live-smart.github.io",
     "hubpress": "http://live-smart.github.io",
-    "theme": "//live-smart.github.io/themes/ichi",
+    "theme": "//live-smart.github.io/themes/casper",
     "images": "https://live-smart.github.io/images"
   },
   "initialisationConfigComponent": {
