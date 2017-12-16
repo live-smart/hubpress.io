@@ -1,7 +1,7 @@
 = Christmas Gift Ideas That Make a Difference
-:hp-image: /covers/cover.png
+:hp-image: https://user-images.githubusercontent.com/19504323/34067927-623859e6-e26d-11e7-95a0-30375cf2ddf2.png
 :published_at: 2017-12-01
-:hp-tags: christmas, gift
+:hp-tags: christmas, gift, echo, lifepak, bone formula, clash of clans, clash royale, bracelet
 :hp-alt-title: Christmas Gift Ideas That Make a Difference
 
 
