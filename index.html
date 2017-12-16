@@ -12,8 +12,18 @@
 
     <link rel="shortcut icon" href="https://live-smart.github.io/favicon.ico">
 
-    <link rel="stylesheet" type="text/css" href="//live-smart.github.io/themes/casper/assets/css/screen.css?v=1513409520183" />
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <script type="text/javascript" src="//live-smart.github.io/themes/ichi/assets/js/vendor/fastclick.js?v=1513434427937"></script>
+    <script type="text/javascript" src="//live-smart.github.io/themes/ichi/assets/js/vendor/modernizr.js?v=1513434427937"></script>
+
+
+    <link rel="stylesheet" type="text/css" href="//live-smart.github.io/themes/ichi/assets/css/normalize.css?v=1513434427937" />
+    <link rel="stylesheet" type="text/css" href="//live-smart.github.io/themes/ichi/assets/css/foundation.min.css?v=1513434427937" />
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" type="text/css" href="//live-smart.github.io/themes/ichi/assets/css/outdatedBrowser.min.css?v=1513434427937">
+    <![endif]-->
+    <link rel="stylesheet" type="text/css" href="//live-smart.github.io/themes/ichi/assets/fonts/foundation-icons/foundation-icons.css?v=1513434427937" />
+    <link rel="stylesheet" type="text/css" href="//live-smart.github.io/themes/ichi/assets/css/styles.css?v=1513434427937" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,700,400|Source+Sans+Pro:300,400,600,700,900,300italic,400italic,600italic,700italic,900italic" />
 
     <link rel="canonical" href="https://live-smart.github.io/" />
     <meta name="referrer" content="origin" />
@@ -40,195 +50,237 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/atom-one-dark.min.css">
     
         <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
-
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-6100706381803719",
-        enable_page_level_ads: true
-      });
-    </script>
-
-    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a33d9129d192f001374316a&product=sticky-share-buttons"></script>
 </head>
-<body class="home-template nav-closed">
+<body class="home-template">
 
-    
+<div id="outdated">
+    <h6>Your browser is out-of-date!</h6>
+    <p>Update your browser to view this website correctly. <a id="btnUpdate" href="http://outdatedbrowser.com/">Update my browser now</a></p>
+</div>
 
-    <div class="site-wrapper">
+<nav class="top-bar hide-for-large-up" data-topbar style="background: none">
+  <ul class="title-area">
+    <li class="name">
 
-        
-<header class="main-header " style="background-image: url(https://cloud.githubusercontent.com/assets/19504323/15453331/828a4ae8-2044-11e6-83e3-e1153288e4d9.jpeg)">
-    <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="https://live-smart.github.io"><img src="https://cloud.githubusercontent.com/assets/19504323/15453323/22be16ee-2044-11e6-9c8d-8335682038f8.jpg" alt="Live Smart" /></a>
+    </li>
+    <li class="home"><a class="fi-home" href="https://live-smart.github.io"></a></li>
+    <li class="toggle-topbar"><a href="#" id="trigger-overlay" class="fi-list"></a></li>
+  </ul>
+
+<div class="overlay overlay-scale">
+    <button type="button" class="overlay-close">Close</button>
+    <nav>
+        <ul>
+            <li><a href="https://live-smart.github.io">Home</a></li>
+        </ul>
     </nav>
+</div>
+
+</nav>
+
+<div class="row">
+
+<div class="small-16 medium-16 large-4 columns right head-area bgimage" style="background-image: url(https://cloud.githubusercontent.com/assets/19504323/15453331/828a4ae8-2044-11e6-83e3-e1153288e4d9.jpeg)">
+
+<header class="site-head">
     <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Live Smart</h1>
-            <h2 class="page-description">Programming / Investment / Health / Life Hacks</h2>
+        <div class="site-head-content inner">
+            <ul class="side-nav blog-menu show-for-large-up">
+                <li><a class="fi-home" href="https://live-smart.github.io"></a></li>
+                <li><a class="fi-torso" href="https://live-smart.github.io/about"></a></li>
+                <li><a class="fi-mail" href="https://live-smart.github.io/contact"></a></li>
+            </ul>
+            <a class="blog-logo" href="https://live-smart.github.io"><img alt="Live Smart" src="https://cloud.githubusercontent.com/assets/19504323/15453323/22be16ee-2044-11e6-9c8d-8335682038f8.jpg" alt="Blog Logo" /></a>
+            <h1 class="blog-title">Live Smart</h1>
+            <hr>
+            <p class="blog-description">Programming / Investment / Health / Life Hacks</p>
+            <div class="blog-network">
+<!--                 <a href="#" class="fi-social-pinterest"></a>
+                <a href="#" class="fi-social-linkedin"></a>
+                <a href="#" class="fi-social-behance"></a>
+                <a href="#" class="fi-social-deviant-art"></a>
+                <a href="#" class="fi-social-dribbble"></a>
+                <a href="#" class="fi-social-flickr"></a>
+                <a href="#" class="fi-social-github"></a>
+                <a href="#" class="fi-social-skype"></a>
+                <a href="#" class="fi-social-snapchat"></a>
+                <a href="#" class="fi-social-steam"></a>
+                <a href="#" class="fi-social-xbox"></a>
+                <a href="#" class="fi-social-reddit"></a> -->
+            </div>
         </div>
     </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
 
-<main id="content" class="content" role="main">
+</div>
 
-    <div class="extra-pagination inner">
-        <nav class="pagination" role="navigation">
-        <span class="page-number">Page 1 of 1</span>
-    </nav>
+
+<div class="small-16 medium-16 large-12 columns main-column left">
     
-    </div>
-    
+
+
+
+
+
+<main class="content" role="main">
+
+
     <article class="post tag-job tag-job-searching tag-job-seeking tag-job-hunting tag-finding-job tag-recruitment tag-hr tag-career tag-hire">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2017-12-11">11 Dec 2017</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2017/12/11/Job-Hunting-Tips-and-Tricks.html">Job Hunting Tips and Tricks</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>The way we go about getting jobs has changed. Through technology and the networks that offer more intel on our prospective employers, we are better prepared <a class="read-more" href="https://live-smart.github.io/2017/12/11/Job-Hunting-Tips-and-Tricks.html">&raquo;</a></p>
+            <p>The way we go about getting jobs has changed. Through technology and the networks that offer more intel on our prospective employers, we are better prepared than ever to find the right career path. The latest generation of job-seekers is also different, and not only in how it approaches the task of finding work, but in its philosophy and attitude. Finding the right occupation is important not jus&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/job/">job</a>, <a href="https://live-smart.github.io/tag/job-searching/">job searching</a>, <a href="https://live-smart.github.io/tag/job-seeking/">job seeking</a>, <a href="https://live-smart.github.io/tag/job-hunting/">job hunting</a>, <a href="https://live-smart.github.io/tag/finding-job/">finding job</a>, <a href="https://live-smart.github.io/tag/recruitment/">recruitment</a>, <a href="https://live-smart.github.io/tag/hr/">hr</a>, <a href="https://live-smart.github.io/tag/career/">career</a>, <a href="https://live-smart.github.io/tag/hire/">hire</a>
-            <time class="post-date" datetime="2017-12-11">11 December 2017</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2017/12/11/Job-Hunting-Tips-and-Tricks.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/job/">job</a>, <a href="https://live-smart.github.io/tag/job-searching/">job searching</a>, <a href="https://live-smart.github.io/tag/job-seeking/">job seeking</a>, <a href="https://live-smart.github.io/tag/job-hunting/">job hunting</a>, <a href="https://live-smart.github.io/tag/finding-job/">finding job</a>, <a href="https://live-smart.github.io/tag/recruitment/">recruitment</a>, <a href="https://live-smart.github.io/tag/hr/">hr</a>, <a href="https://live-smart.github.io/tag/career/">career</a>, <a href="https://live-smart.github.io/tag/hire/">hire</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-developer tag-programmer tag-software-engineer tag-open-office tag-open-floor-plan tag-open-floor-plan-office tag-interference tag-interruption tag-earphone tag-headphone tag-work-from-home">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2017-12-01">01 Dec 2017</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2017/12/01/Software-Developers-Guide-to-Working-in-Open-Floor-Plan-Office.html">Software Developers&#x27; Guide to Working in Open Floor Plan Office</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>Offices with open floor plans have become ubiquitous in the tech industry. The idea is that eliminating physical barriers between workspaces also eliminates intellectual or interper <a class="read-more" href="https://live-smart.github.io/2017/12/01/Software-Developers-Guide-to-Working-in-Open-Floor-Plan-Office.html">&raquo;</a></p>
+            <p>Offices with open floor plans have become ubiquitous in the tech industry. The idea is that eliminating physical barriers between workspaces also eliminates intellectual or interpersonal barriers to collaboration. And, of course, it’s a cost-efficient way to squeeze a lot of people into a small space. The problem is, programmers hate open floor plans. The CEO of Stack Overflow, Joel Spolsky, laid&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/developer/">developer</a>, <a href="https://live-smart.github.io/tag/programmer/">programmer</a>, <a href="https://live-smart.github.io/tag/software-engineer/">software engineer</a>, <a href="https://live-smart.github.io/tag/open-office/">open office</a>, <a href="https://live-smart.github.io/tag/open-floor-plan/">open floor plan</a>, <a href="https://live-smart.github.io/tag/open-floor-plan-office/">open floor plan office</a>, <a href="https://live-smart.github.io/tag/interference/">interference</a>, <a href="https://live-smart.github.io/tag/interruption/">interruption</a>, <a href="https://live-smart.github.io/tag/earphone/">earphone</a>, <a href="https://live-smart.github.io/tag/headphone/">headphone</a>, <a href="https://live-smart.github.io/tag/work-from-home/">work from home</a>
-            <time class="post-date" datetime="2017-12-01">01 December 2017</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2017/12/01/Software-Developers-Guide-to-Working-in-Open-Floor-Plan-Office.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/developer/">developer</a>, <a href="https://live-smart.github.io/tag/programmer/">programmer</a>, <a href="https://live-smart.github.io/tag/software-engineer/">software engineer</a>, <a href="https://live-smart.github.io/tag/open-office/">open office</a>, <a href="https://live-smart.github.io/tag/open-floor-plan/">open floor plan</a>, <a href="https://live-smart.github.io/tag/open-floor-plan-office/">open floor plan office</a>, <a href="https://live-smart.github.io/tag/interference/">interference</a>, <a href="https://live-smart.github.io/tag/interruption/">interruption</a>, <a href="https://live-smart.github.io/tag/earphone/">earphone</a>, <a href="https://live-smart.github.io/tag/headphone/">headphone</a>, <a href="https://live-smart.github.io/tag/work-from-home/">work from home</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-christmas tag-gift tag-echo tag-lifepak tag-bone-formula tag-clash-of-clans tag-clash-royale tag-bracelet">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2017-12-01">01 Dec 2017</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2017/12/01/Christmas-Gift-Ideas-That-Make-a-Difference.html">Christmas Gift Ideas That Make a Difference</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>It&#8217;s that time of the year again. Gotta figure out what to buy for your kids, parents, significant other? Look no further, we&#8217; <a class="read-more" href="https://live-smart.github.io/2017/12/01/Christmas-Gift-Ideas-That-Make-a-Difference.html">&raquo;</a></p>
+            <p>It&#8217;s that time of the year again. Gotta figure out what to buy for your kids, parents, significant other? Look no further, we&#8217;ve prepared a list of Christmas gift ideas that are going to make a difference. For Parents Nature&#8217;s Way Alive!® Calcium Bone Formula Supplement is not just another calcium supplement for osteoporosis. It contains vitamin C, D3 and K2 along with calcium,&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/christmas/">christmas</a>, <a href="https://live-smart.github.io/tag/gift/">gift</a>, <a href="https://live-smart.github.io/tag/echo/">echo</a>, <a href="https://live-smart.github.io/tag/lifepak/">lifepak</a>, <a href="https://live-smart.github.io/tag/bone-formula/">bone formula</a>, <a href="https://live-smart.github.io/tag/clash-of-clans/">clash of clans</a>, <a href="https://live-smart.github.io/tag/clash-royale/">clash royale</a>, <a href="https://live-smart.github.io/tag/bracelet/">bracelet</a>
-            <time class="post-date" datetime="2017-12-01">01 December 2017</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2017/12/01/Christmas-Gift-Ideas-That-Make-a-Difference.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/christmas/">christmas</a>, <a href="https://live-smart.github.io/tag/gift/">gift</a>, <a href="https://live-smart.github.io/tag/echo/">echo</a>, <a href="https://live-smart.github.io/tag/lifepak/">lifepak</a>, <a href="https://live-smart.github.io/tag/bone-formula/">bone formula</a>, <a href="https://live-smart.github.io/tag/clash-of-clans/">clash of clans</a>, <a href="https://live-smart.github.io/tag/clash-royale/">clash royale</a>, <a href="https://live-smart.github.io/tag/bracelet/">bracelet</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-diet tag-programmers tag-software-engineers tag-hackers tag-geeks tag-health tag-shake tag-fibre tag-fiber tag-yoghurt tag-weight-loss tag-probiotics">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2017-11-30">30 Nov 2017</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2017/11/30/Best-Diet-for-Programmers-Software-Engineers-Hackers-Geeks.html">Best Diet for Programmers / Software Engineers / Hackers / Geeks</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>Are you a software developer / engineer who, like virtually any other out there has a "beer belly" to deal with? Is your career surging while your <a class="read-more" href="https://live-smart.github.io/2017/11/30/Best-Diet-for-Programmers-Software-Engineers-Hackers-Geeks.html">&raquo;</a></p>
+            <p>Are you a software developer / engineer who, like virtually any other out there has a "beer belly" to deal with? Is your career surging while your health is spiraling down? Has your doctor told you to cut calories in your diet and do more exercises? Well, it&#8217;d probably be hard for you to squeeze 15 minutes out everyday to do exercises. Those drinking sessions are probably hard to avoid too.&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/diet/">diet</a>, <a href="https://live-smart.github.io/tag/programmers/">programmers</a>, <a href="https://live-smart.github.io/tag/software-engineers/">software engineers</a>, <a href="https://live-smart.github.io/tag/hackers/">hackers</a>, <a href="https://live-smart.github.io/tag/geeks/">geeks</a>, <a href="https://live-smart.github.io/tag/health/">health</a>, <a href="https://live-smart.github.io/tag/shake/">shake</a>, <a href="https://live-smart.github.io/tag/fibre/">fibre</a>, <a href="https://live-smart.github.io/tag/fiber/">fiber</a>, <a href="https://live-smart.github.io/tag/yoghurt/">yoghurt</a>, <a href="https://live-smart.github.io/tag/weight-loss/">weight loss</a>, <a href="https://live-smart.github.io/tag/probiotics/">probiotics</a>
-            <time class="post-date" datetime="2017-11-30">30 November 2017</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2017/11/30/Best-Diet-for-Programmers-Software-Engineers-Hackers-Geeks.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/diet/">diet</a>, <a href="https://live-smart.github.io/tag/programmers/">programmers</a>, <a href="https://live-smart.github.io/tag/software-engineers/">software engineers</a>, <a href="https://live-smart.github.io/tag/hackers/">hackers</a>, <a href="https://live-smart.github.io/tag/geeks/">geeks</a>, <a href="https://live-smart.github.io/tag/health/">health</a>, <a href="https://live-smart.github.io/tag/shake/">shake</a>, <a href="https://live-smart.github.io/tag/fibre/">fibre</a>, <a href="https://live-smart.github.io/tag/fiber/">fiber</a>, <a href="https://live-smart.github.io/tag/yoghurt/">yoghurt</a>, <a href="https://live-smart.github.io/tag/weight-loss/">weight loss</a>, <a href="https://live-smart.github.io/tag/probiotics/">probiotics</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-investment tag-make-money tag-revenue tag-income tag-profit">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2017-11-28">28 Nov 2017</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2017/11/28/Some-Great-Books-on-Investment.html">Some Great Books on Investment</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>It&#8217;s imperative for young adults and professionals to start investing early. One of the main reasons for doing so is to obtain the power <a class="read-more" href="https://live-smart.github.io/2017/11/28/Some-Great-Books-on-Investment.html">&raquo;</a></p>
+            <p>It&#8217;s imperative for young adults and professionals to start investing early. One of the main reasons for doing so is to obtain the power of compound interest; by holding long-term investments, one can allow his or her assets to generate more returns. Investing just a few years earlier could translate into tens of thousands, if not hundreds of thousands, of additional funds for your retireme&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/investment/">investment</a>, <a href="https://live-smart.github.io/tag/make-money/">make money</a>, <a href="https://live-smart.github.io/tag/revenue/">revenue</a>, <a href="https://live-smart.github.io/tag/income/">income</a>, <a href="https://live-smart.github.io/tag/profit/">profit</a>
-            <time class="post-date" datetime="2017-11-28">28 November 2017</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2017/11/28/Some-Great-Books-on-Investment.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/investment/">investment</a>, <a href="https://live-smart.github.io/tag/make-money/">make money</a>, <a href="https://live-smart.github.io/tag/revenue/">revenue</a>, <a href="https://live-smart.github.io/tag/income/">income</a>, <a href="https://live-smart.github.io/tag/profit/">profit</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-noise-cancelling tag-earphone tag-sony">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2017-11-19">19 Nov 2017</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2017/11/19/Sony-WH-1000X-M-Noise-Cancelling-Wireless-Headphone.html">Sony WH-1000XM2 Noise Cancelling Wireless Headphone</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>What are the Sony WH-1000XM2? In 2016, the Trusted Reviews award for Best Headphones went to the Sony MDR-1000X, excellent wireless and noise-cancelling headphones with an <a class="read-more" href="https://live-smart.github.io/2017/11/19/Sony-WH-1000X-M-Noise-Cancelling-Wireless-Headphone.html">&raquo;</a></p>
+            <p>What are the Sony WH-1000XM2? In 2016, the Trusted Reviews award for Best Headphones went to the Sony MDR-1000X, excellent wireless and noise-cancelling headphones with an intelligent set of features. The Sony WH-1000XM2 are their successor, and they’re a little better in almost every way. The market is tougher now, and Sony faces fierce competition from the Bose QuietComfort 35 II and B&amp;W PX&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/noise-cancelling/">noise-cancelling</a>, <a href="https://live-smart.github.io/tag/earphone/">earphone</a>, <a href="https://live-smart.github.io/tag/sony/">sony</a>
-            <time class="post-date" datetime="2017-11-19">19 November 2017</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2017/11/19/Sony-WH-1000X-M-Noise-Cancelling-Wireless-Headphone.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/noise-cancelling/">noise-cancelling</a>, <a href="https://live-smart.github.io/tag/earphone/">earphone</a>, <a href="https://live-smart.github.io/tag/sony/">sony</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-programming tag-development tag-assembly tag-computer-architecture tag-c">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2017-11-11">11 Nov 2017</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2017/11/11/Learn-Programming-the-Right-Way.html">Learn Programming the Right Way</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>TL;DR, here are the books that will pave your way to a becoming a successful programmer. Be sure to read them in the right order. <a class="read-more" href="https://live-smart.github.io/2017/11/11/Learn-Programming-the-Right-Way.html">&raquo;</a></p>
+            <p>TL;DR, here are the books that will pave your way to a becoming a successful programmer. Be sure to read them in the right order. Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture Modern X86 Assembly Language Programming: 32-bit, 64-bit, SSE, and AVX C Programming Language Once you go through above books, you&#8217;ll be ready for a developer career in a&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/programming/">programming</a>, <a href="https://live-smart.github.io/tag/development/">development</a>, <a href="https://live-smart.github.io/tag/assembly/">assembly</a>, <a href="https://live-smart.github.io/tag/computer-architecture/">computer architecture</a>, <a href="https://live-smart.github.io/tag/c/">c</a>
-            <time class="post-date" datetime="2017-11-11">11 November 2017</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2017/11/11/Learn-Programming-the-Right-Way.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/programming/">programming</a>, <a href="https://live-smart.github.io/tag/development/">development</a>, <a href="https://live-smart.github.io/tag/assembly/">assembly</a>, <a href="https://live-smart.github.io/tag/computer-architecture/">computer architecture</a>, <a href="https://live-smart.github.io/tag/c/">c</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-allergy tag-dust-mite tag-bed tag-mattress tag-vacuum">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2016-06-17">17 Jun 2016</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2016/06/17/Allergy-Dust-Mites-and-Solution.html">Allergy, Dust Mites, and Solution</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>Have you ever experienced symptoms of allergy such as rhinitis, nasal congestion, asthma, urticaria? I&#8217;ve had serious rhinitis and nasal congestion during sleep since <a class="read-more" href="https://live-smart.github.io/2016/06/17/Allergy-Dust-Mites-and-Solution.html">&raquo;</a></p>
+            <p>Have you ever experienced symptoms of allergy such as rhinitis, nasal congestion, asthma, urticaria? I&#8217;ve had serious rhinitis and nasal congestion during sleep since I was born, and absolutely no idea what has gone wrong. I tried different treatments such as ephedrine nasal spray, septum reconstructomy, polypectomy, none of which really worked. I&#8217;ve been waking up during mid of night&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/allergy/">allergy</a>, <a href="https://live-smart.github.io/tag/dust-mite/">dust mite</a>, <a href="https://live-smart.github.io/tag/bed/">bed</a>, <a href="https://live-smart.github.io/tag/mattress/">mattress</a>, <a href="https://live-smart.github.io/tag/vacuum/">vacuum</a>
-            <time class="post-date" datetime="2016-06-17">17 June 2016</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2016/06/17/Allergy-Dust-Mites-and-Solution.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/allergy/">allergy</a>, <a href="https://live-smart.github.io/tag/dust-mite/">dust mite</a>, <a href="https://live-smart.github.io/tag/bed/">bed</a>, <a href="https://live-smart.github.io/tag/mattress/">mattress</a>, <a href="https://live-smart.github.io/tag/vacuum/">vacuum</a></aside>
+        <div class="clearfix"></div>
     </article>
+
+
     <article class="post tag-knee tag-knee-pain tag-knee-protection tag-shoe">
         <header class="post-header">
+            <span class="post-meta"><time datetime="2016-03-05">05 Mar 2016</time> </span>
             <h2 class="post-title"><a href="https://live-smart.github.io/2016/03/05/Shoes-and-Knee-Pain.html">Shoes and Knee Pain</a></h2>
+
         </header>
         <section class="post-excerpt">
-            <p>Update on Dec 13, 2017 Hoka One One has released more and better models since this post was originally written. Here are some great ones that <a class="read-more" href="https://live-smart.github.io/2016/03/05/Shoes-and-Knee-Pain.html">&raquo;</a></p>
+            <p>Update on Dec 13, 2017 Hoka One One has released more and better models since this post was originally written. Here are some great ones that have improved in every aspect: Clifton 4 (Men) Clifton 4 (Women) Bondi 5 (Men) Bondi 5 (Women) Original Post Knee pain is commonly witnessed among people of all ages. Causes can vary but the most significant yet often overlooked one is shoes. How would you&hellip;</p>
         </section>
-        <footer class="post-meta">
-            <img class="author-thumb" src="https://avatars2.githubusercontent.com/u/19504323?v&#x3D;4" alt="Smart Buddy" nopin="nopin" />
-            <a href="https://live-smart.github.io/author/live-smart/">Smart Buddy</a>
-             on <a href="https://live-smart.github.io/tag/knee/">knee</a>, <a href="https://live-smart.github.io/tag/knee-pain/">knee pain</a>, <a href="https://live-smart.github.io/tag/knee-protection/">knee protection</a>, <a href="https://live-smart.github.io/tag/shoe/">shoe</a>
-            <time class="post-date" datetime="2016-03-05">05 March 2016</time>
-        </footer>
+        <a class="button read-more right small" href="https://live-smart.github.io/2016/03/05/Shoes-and-Knee-Pain.html">Read more</a>
+        <aside class="tags fi-pricetag-multiple">Posted on <a href="https://live-smart.github.io/tag/knee/">knee</a>, <a href="https://live-smart.github.io/tag/knee-pain/">knee pain</a>, <a href="https://live-smart.github.io/tag/knee-protection/">knee protection</a>, <a href="https://live-smart.github.io/tag/shoe/">shoe</a></aside>
+        <div class="clearfix"></div>
     </article>
-    
+
+
     <nav class="pagination" role="navigation">
-        <span class="page-number">Page 1 of 1</span>
-    </nav>
-    
+    <span class="page-number">Page 1 of 1</span>
+</nav>
+
+    <div class="row">
+        <footer class="small-16 columns site-footer">
+            <a class="subscribe icon-feed" href="https://live-smart.github.io/rss/"><span class="tooltip">Subscribe!</span></a>
+            <div class="inner">
+                <section class="published">Proudly published with <a href="http://hubpress.io" target="_blank">HubPress</a></section>
+                 <section class="copyright">All content copyright <a href="https://live-smart.github.io/">Live Smart</a> &copy; 2017</section>
+                 <section class="theme-author">Theme (<a href="https://github.com/twogrey/ichi">download here</a>) developed by <a href="https://alexisdegryse.fr">Alexis Degryse</a></section>
+            </div>
+        </footer>
+    </div>
 
 </main>
 
+</div>
 
-        <footer class="site-footer clearfix">
-            <section class="copyright">
-              <a href="https://live-smart.github.io">Live Smart</a>
-              &copy;
-              2017
-              |
-              <a href="https://live-smart.github.io/privacy-policy.html">Privacy Policy</a>
-            </section>
-            <section class="poweredby">We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for us to earn fees by linking to Amazon.com and affiliated sites.</section>
-        </footer>
+</div>
 
-    </div>
-
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment-with-locales.min.js?v="></script> <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js?v="></script> 
       <script type="text/javascript">
         jQuery( document ).ready(function() {
@@ -242,8 +294,14 @@
         hljs.initHighlightingOnLoad();
       </script>
 
-    <script type="text/javascript" src="//live-smart.github.io/themes/casper/assets/js/jquery.fitvids.js?v=1513409520183"></script>
-    <script type="text/javascript" src="//live-smart.github.io/themes/casper/assets/js/index.js?v=1513409520183"></script>
+    <!--[if lte IE 8]>
+        <script type="text/javascript" src="//live-smart.github.io/themes/ichi/assets/js/outdatedBrowser.min.js?v=1513434427937"></script>
+    <![endif]-->
+    <script type="text/javascript" src="//live-smart.github.io/themes/ichi/assets/js/min/built.js?v=1513434427937"></script>
+
+    <script>
+      $(document).foundation();
+    </script>
 
     <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -255,7 +313,5 @@
     ga('send', 'pageview');
 
     </script>
-
-    <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=8d36b5d0-d747-44e0-a19e-c35686058d93"></script>
 </body>
 </html>
