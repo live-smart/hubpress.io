@@ -8,7 +8,7 @@
 It's that time of the year again. Gotta figure out what to buy for your kids, parents, significant other? Look no further, we've prepared a list of Christmas gift ideas that are going to *make a difference*.
 
 
-==== For Parents
+=== For Parents
 
 image::https://user-images.githubusercontent.com/19504323/34067380-858b0456-e25f-11e7-9dfe-b5f8aa98e5cd.png[link='http://amzn.to/2kyfDPu']
 
@@ -16,8 +16,9 @@ http://amzn.to/2kyfDPu[Nature's Way Alive!® Calcium Bone Formula Supplement] is
 
 What brings more joy than http://amzn.to/2kyfDPu[giving back stronger and healthier body to parents]?
 
+'''
 
-==== For Him
+=== For Him
 
 image::https://user-images.githubusercontent.com/19504323/34067698-0471e2fa-e268-11e7-9ca4-7ea3ca063a70.png[link='http://amzn.to/2AU1iYK']
 
@@ -27,8 +28,9 @@ video::https://images-na.ssl-images-amazon.com/images/I/E1R7QiCtTiS.mp4[]
 
 http://amzn.to/2AU1iYK[Echo Show] brings you everything you love about Alexa, and now she can show you things. Watch video flash briefings, Amazon Video content, see music lyrics, security cameras, photos, weather forecasts, to-do and shopping lists, browse and listen to Audible audiobooks, and more. All hands-free—just ask.
 
+'''
 
-==== For Her
+=== For Her
 
 image::https://user-images.githubusercontent.com/19504323/34067849-e8a845b0-e26b-11e7-826c-4656ed73a877.png[link='http://amzn.to/2BxYqjC']
 
@@ -36,15 +38,17 @@ Maybe she would scream when she sees this, but she'd certainly scream less at yo
 
 video::https://images-na.ssl-images-amazon.com/images/I/A1rmiE6iE8S.mp4[]
 
+'''
 
-==== For Kids
+=== For Kids
 
 image::https://user-images.githubusercontent.com/19504323/34067638-80499ba4-e266-11e7-94d9-ca4ea02f71c0.png[link='http://amzn.to/2CEx35e']
 
 You know of kids who don't play CoC / Clash Royale? This http://amzn.to/2CEx35e[figure pack of 5] is gonna make their Christmas for sure.
 
+'''
 
-==== For Yourself
+=== For Yourself
 
 image::https://user-images.githubusercontent.com/19504323/34067594-0b20bd7c-e265-11e7-96c3-a7cad9b67995.png[link='http://amzn.to/2zfFnZy']
 
@@ -54,4 +58,4 @@ http://amzn.to/2zfFnZy[NuSkin Pharmanex LifePak] is a comprehensive dietary supp
 
 http://amzn.to/2zfFnZy[Treat yourself better] from now on.
 
-===== Merry Christmas!
+==== Merry Christmas!
