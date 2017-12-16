@@ -1,0 +1,19 @@
+= Christmas Gift Ideas
+:hp-image: /covers/cover.png
+:published_at: 2017-12-01
+:hp-tags: christmas, gift
+:hp-alt-title: Christmas Gift Ideas
+
+
+It's that time of the year again. Gotta figure out what to buy for your kids, parents, significant other? Look no further, we've prepared a list of Christmas gift ideas that are going to *make a difference*.
+
+
+==== For Parents
+image::https://user-images.githubusercontent.com/19504323/34067380-858b0456-e25f-11e7-9dfe-b5f8aa98e5cd.png[link='http://amzn.to/2kyfDPu']
+
+
+==== For Him
+
+==== For Her
+
+==== For Kids
