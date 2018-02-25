@@ -15,7 +15,7 @@
     "disqus": "live-smarter",
     "url": "https://live-smart.github.io",
     "delay": "2000",
-    "postsPerPage": "5"
+    "postsPerPage": "100"
   },
   "socialnetwork": {
     "email": "",
